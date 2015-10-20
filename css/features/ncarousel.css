@@ -1,0 +1,124 @@
+.carousel_inner {
+    float: left;
+    width: 100%;
+    overflow: hidden;
+    height: 305px;
+    margin-top: 15px;
+}
+
+.carousel-ul {
+    position: relative;
+    list-style-type: none;
+    /* removing the default styling for unordered list items */
+    margin: 0px;
+    padding: 0px;
+    width: 9999px;
+    height: 105px;
+    /* important */
+    /* non-important styling bellow */
+    padding-bottom: 10px;
+}
+
+.carousel-ul li {
+    float: left;
+    /* important for inline positioning of the list items */
+    width: 380px;
+    /* fixed width, important */
+    /* just styling bellow*/
+    padding: 0px;
+    height: 305px;
+    background: #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 30px;
+}
+
+.carousel-ul li .sliderInfo {
+    background: url("../../images/curveImage3.png") no-repeat scroll right top #efefef;
+    padding: 15px 20px;
+}
+
+.carousel-ul li .sliderInfo h5 {
+    color: #861254;
+    font-size: 1.1em;
+    margin: 0;
+}
+
+.carousel-ul li .sliderInfo h2 {
+    color: #2cabe1;
+    font-size: 25px;
+    margin: 5px 0 10px;
+}
+
+.carousel-ul li .sliderInfo img {
+    margin: 0 0 10px !important;
+}
+
+.carousel-ul li .sliderInfo p {
+    font-family: corbelregular;
+    font-size: 12px;
+    margin: 0;
+    min-height: 70px;
+}
+
+.carousel-ul li .sliderInfo .learn-more {
+    background: none repeat scroll 0 0 #00567c;
+    border: medium none;
+    border-radius: 0;
+    color: #fff;
+    font-family: tahoma;
+    padding: 10px 16px;
+}
+
+.carousel-ul li .sliderInfo .strips-bg {
+    background: url("../../images/stripBgIcon.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: inline-block;
+    height: 36px;
+    margin: 0 0 0 6px;
+    width: 78px;
+}
+
+.left-scroll,
+.right-scroll {
+    height: 305px;
+    width: 75px;
+}
+
+.left-scroll {
+    position: absolute;
+    z-index: 1000;
+    padding-top: 125px;
+    padding-left: 40px;
+}
+
+.right-scroll {
+    right: 0;
+    position: absolute;
+    z-index: 1000;
+    padding-top: 125px;
+    padding-right: 40px;
+}
+
+.left-scroll img,
+.right-scroll img {
+    /*styling*/
+    cursor: pointer;
+    cursor: hand;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .carousel-wrapper{
+		display:none;
+  }
+}
+
+
+.carousel-wrapper {
+    background: url("../../images/contactAddressTopStrip.jpg") repeat-x scroll left top #d7d7d7;
+    margin: 0;
+    min-height: 400px;
+    overflow: hidden;
+    padding: 10px 0 100px;
+    position: relative;
+}

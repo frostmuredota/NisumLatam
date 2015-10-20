@@ -1,0 +1,834 @@
+/* line 5, ../../scss/features/overwrite_bootstrap.scss */
+body {
+  /* Banner Image Sliders Restriction (above 1280 resoulutions only) ----------- */
+  /* Smartphones (portrait and landscape) ----------- */
+  /* Smartphones (landscape) ----------- */
+  /* Smartphones (portrait) ----------- */
+  /* iPads (portrait and landscape) ----------- */
+  /* iPads (landscape) ----------- */
+  /* iPads (portrait) ----------- */
+  /* Desktops and laptops ----------- */
+  /* Large screens ----------- */
+  /* iPhone 4 ----------- */
+}
+/* line 6, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-toggle {
+  position: relative;
+  float: right;
+  margin-top: 20px !important;
+  margin-right: 15px;
+  padding: 0px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  /* background-color: #861254; */
+  background-image: none;
+  border: 0px solid none;
+  border-radius: 0;
+}
+/* line 18, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-toggle .icon-bar {
+  display: block;
+  width: 35px;
+  height: 4px;
+  margin-bottom: 5px;
+  /* border-radius: 3px; */
+  background: #861254;
+}
+/* line 27, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li {
+  background: url(../../images/menuDivider.png) no-repeat left top;
+  /* Navigation Styles override */
+  /* .menu-arrow:hover {
+    background: #00567c url(../../images/menu-arrow-hover.png) no-repeat right 12px; 
+  } */
+}
+/* line 30, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu {
+  border-radius: 0px;
+  left: 0;
+  padding: 0;
+  min-width: 160px !important;
+  /*background: #00567c !important;
+  background: #00567c url(../../images/nav-bg.png) repeat-x !important;*/
+}
+/* line 38, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu li.menu-item.menu-arrow {
+  background: url(../../images/menu-arrow-right.png) no-repeat 95% center;
+}
+/* line 41, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu li.menu-item.menu-arrow:hover {
+  background-color: #00567c;
+  color: #fff;
+}
+/* line 44, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu li.menu-item.menu-arrow:hover a {
+  display: inline-block;
+  width: 100%;
+  background: url(../../images/menu-arrow-hover-white.png) no-repeat 95% center;
+  color: #fff;
+}
+/* line 52, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu li.menu-item.menu-arrow ul {
+  left: 100%;
+  top: -1px;
+  margin-top: 0;
+}
+/* line 57, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu li.menu-item.menu-arrow ul li a {
+  color: #333;
+}
+/* line 61, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu li.menu-item.menu-arrow ul li:hover a {
+  display: inline-block;
+  width: 100%;
+  background: url(../../images/menu-arrow-hover-white.png) no-repeat 95% center;
+  color: #fff;
+}
+/* line 70, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu li.menu-item.menu-arrow:hover ul li {
+  color: #333;
+}
+/* line 73, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu li.menu-item.menu-arrow:hover ul li a {
+  color: #333;
+  background: none;
+}
+/* line 77, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu li.menu-item.menu-arrow:hover ul li:hover {
+  background-color: #00567c;
+}
+/* line 79, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu li.menu-item.menu-arrow:hover ul li:hover a {
+  display: inline-block;
+  width: 100%;
+  color: #fff;
+}
+/* line 86, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu li.menu-item.menu-arrow:hover ul li.menu-arrow:hover a {
+  background: url(../../images/menu-arrow-hover-white.png) no-repeat 95% center;
+}
+/* line 92, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu > li > a {
+  padding: 8px 15px 8px 13px;
+  border-bottom: solid 1px #999;
+  word-wrap: break-word;
+  white-space: normal;
+}
+/* line 97, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .dropdown-menu > li > a:hover {
+  color: #fff;
+  background: #00567c;
+  /* background: #00567c url(../../images/menu-arrow-hover.png) no-repeat right 12px; */
+}
+/* line 106, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li .caret {
+  margin-left: 6px;
+}
+/* line 110, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu {
+  right: 0;
+  left: auto;
+  margin: 0;
+}
+/* line 114, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow {
+  background: url(../../images/menu-arrow-left.png) no-repeat 95% center;
+}
+/* line 116, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover {
+  background-image: none;
+  background-color: #00567c;
+  color: #fff;
+}
+/* line 120, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover a, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover a {
+  background: url(../../images/menu-arrow-hover-white-left.png) no-repeat 95% center;
+}
+/* line 123, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul {
+  left: -100%;
+  right: 100%;
+}
+/* line 128, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item a, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item a {
+  background-image: none;
+}
+/* line 132, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow {
+  background: url(../../images/menu-arrow-left.png) no-repeat 95% center;
+}
+/* line 134, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow a, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow a {
+  background-image: none;
+}
+/* line 137, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover {
+  background-image: none;
+  background-color: #00567c;
+  color: #fff;
+}
+/* line 141, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover a, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover a {
+  background: url(../../images/menu-arrow-hover-white-left.png) no-repeat 95% center;
+}
+/* line 144, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul {
+  left: -100%;
+}
+/* line 146, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item {
+  background-color: #fff;
+  color: #333;
+}
+/* line 149, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item a, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item a {
+  background-image: none;
+  color: #333;
+}
+/* line 153, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item:hover, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item:hover {
+  background-image: none;
+  background-color: #00567c;
+  color: #fff;
+}
+/* line 157, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item:hover a, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item:hover a {
+  color: #fff;
+}
+/* line 162, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow {
+  background: url(../../images/menu-arrow-left.png) no-repeat 95% center;
+}
+/* line 164, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow a, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow a {
+  background-image: none;
+}
+/* line 167, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover {
+  background-image: none;
+  background-color: #00567c;
+  color: #333;
+}
+/* line 171, ../../scss/features/overwrite_bootstrap.scss */
+body .navbar-nav > li:nth-child(3) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover a, body .navbar-nav > li:nth-child(5) > ul.dropdown-menu > li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover > ul li.menu-item.menu-arrow:hover a {
+  background: url(../../images/menu-arrow-hover-white-left.png) no-repeat 95% center;
+}
+/* line 185, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel {
+  /* .carousel-inner {
+    overflow: visible;
+  } */
+}
+/* line 186, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel .carousel-control {
+  opacity: 100;
+  width: auto;
+  z-index: 11;
+}
+/* line 190, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel .carousel-control .icon-prev:before, body #myCarousel .carousel-control .icon-next:before {
+  content: "";
+}
+/* line 194, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel .carousel-control .icon-prev, body #myCarousel .carousel-control .icon-next {
+  width: 72px;
+  height: 83px;
+  margin-left: 0px;
+}
+/* line 199, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel span.icon-next {
+  background: url(../../images/rightArrow.png) no-repeat;
+  content: "";
+}
+/* line 203, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel span.icon-prev {
+  background: url(../../images/leftArrow.png) no-repeat;
+  content: "";
+}
+/* line 208, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel .icon-prev,
+body #myCarousel .glyphicon-chevron-left {
+  left: 0;
+  top: 47%;
+}
+/* line 213, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel .icon-next,
+body #myCarousel .glyphicon-chevron-right {
+  right: 0;
+  top: 47%;
+}
+/* line 217, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel .carousel-control.left, body #myCarousel .carousel-control.right {
+  background: none;
+}
+/* line 220, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel .mob-img {
+  display: block;
+}
+/* line 223, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel .carousel-caption {
+  top: 3%;
+  left: 3%;
+  width: 94%;
+  text-align: left;
+}
+/* line 228, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel .carousel-caption h1 {
+  margin: 0 0 6px 0;
+  text-shadow: 1px 1px 0px #cccccc;
+  overflow: hidden;
+  font-size: 1.7em;
+}
+/* line 233, ../../scss/features/overwrite_bootstrap.scss */
+body #myCarousel .carousel-caption h1 span, body #myCarousel .carousel-caption h1 .bannerWrapper h1 {
+  background: #fff;
+  border-left: solid 3px #861254;
+  padding: 4px 8px;
+  color: #2cabe1;
+  display: inline-block;
+}
+@media (min-width: 100px) and (max-width: 767px) {
+  /* line 248, ../../scss/features/overwrite_bootstrap.scss */
+  body .team-arrow-big, body .partners-section {
+    display: none !important;
+  }
+  /* line 251, ../../scss/features/overwrite_bootstrap.scss */
+  body .team-arrow-small {
+    display: block !important;
+  }
+  /* line 254, ../../scss/features/overwrite_bootstrap.scss */
+  body ul#mainNav li.dropdown > a {
+    color: #00567d !important;
+    font-weight: normal;
+    background: url(../../images/menu-arrow.png) no-repeat 95% center white;
+    border-bottom: 1px solid #00567d;
+  }
+  /* line 266, ../../scss/features/overwrite_bootstrap.scss */
+  body .head-quarter {
+    background: none !important;
+  }
+  /* line 269, ../../scss/features/overwrite_bootstrap.scss */
+  body .address-container, body .address {
+    display: none !important;
+  }
+  /* line 272, ../../scss/features/overwrite_bootstrap.scss */
+  body .services, body .what-we-do, body #what-wedo-wrapper, body .scroll-down {
+    display: none !important;
+  }
+  /* line 275, ../../scss/features/overwrite_bootstrap.scss */
+  body .content {
+    padding: 15px !important;
+  }
+  /* line 277, ../../scss/features/overwrite_bootstrap.scss */
+  body .content h1 {
+    font-size: 1.1em !important;
+  }
+  /* line 281, ../../scss/features/overwrite_bootstrap.scss */
+  body .navbar-nav > li > a {
+    padding: 30px 36px;
+    /*font-size: 15px;*/
+    font-weight: bold;
+  }
+  /* line 285, ../../scss/features/overwrite_bootstrap.scss */
+  body .navbar-nav > li > a:hover {
+    color: #fff;
+    background: #00567c url(../../images/nav-bg.png) repeat-x;
+  }
+  /* line 290, ../../scss/features/overwrite_bootstrap.scss */
+  body .nav-padding {
+    padding: 13px 36px !important;
+  }
+  /* line 293, ../../scss/features/overwrite_bootstrap.scss */
+  body ul.dropdown-menu {
+    /* display: none !important; */
+    width: 100%;
+  }
+  /* line 297, ../../scss/features/overwrite_bootstrap.scss */
+  body .category-list ul li {
+    float: none;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  /* line 302, ../../scss/features/overwrite_bootstrap.scss */
+  body .partners-logo {
+    display: none;
+  }
+  /* line 307, ../../scss/features/overwrite_bootstrap.scss */
+  body footer ul li {
+    background: none !important;
+    float: none !important;
+  }
+  /* line 313, ../../scss/features/overwrite_bootstrap.scss */
+  body .footer-fixed {
+    position: relative !important;
+    bottom: 0 !important;
+  }
+  /* line 317, ../../scss/features/overwrite_bootstrap.scss */
+  body #myCarousel .carousel-caption h1 {
+    font-size: 2em;
+  }
+  /* line 320, ../../scss/features/overwrite_bootstrap.scss */
+  body #myCarousel span.icon-next, body #myCarousel span.icon-prev, body .carousel-caption, body .big-slide, body .medium-slide {
+    display: none;
+  }
+  /* line 323, ../../scss/features/overwrite_bootstrap.scss */
+  body #myCarousel .carousel-indicators {
+    display: block !important;
+  }
+  /* line 326, ../../scss/features/overwrite_bootstrap.scss */
+  body .carousel-indicators {
+    top: 5%;
+    right: -50px;
+    margin-left: 0;
+    width: 40%;
+    left: 55%;
+  }
+  /* line 333, ../../scss/features/overwrite_bootstrap.scss */
+  body .carousel-indicators li {
+    background: url(../../images/bannerDot.jpg) no-repeat center center;
+    border: solid 1px #fff;
+    border-radius: 0;
+    height: auto;
+    width: auto;
+    padding: 10px;
+    margin: 3px;
+  }
+  /* line 342, ../../scss/features/overwrite_bootstrap.scss */
+  body .carousel-indicators .active {
+    background: url(../../images/bannerDot.jpg) no-repeat center center;
+    height: auto;
+    width: auto;
+    padding: 6px;
+    margin: 4px 0;
+    border: solid 1px #fff;
+  }
+  /* line 350, ../../scss/features/overwrite_bootstrap.scss */
+  body .captions {
+    background: #d8d8d8;
+    padding: 10px 8px;
+    display: block !important;
+  }
+  /* line 355, ../../scss/features/overwrite_bootstrap.scss */
+  body .captions h1, body .banner-wrapper h1 {
+    margin: 0 0 6px 0;
+    text-shadow: 0px 0px 1px #cccccc;
+    overflow: hidden;
+    font-size: 1.0em !important;
+  }
+  /* line 360, ../../scss/features/overwrite_bootstrap.scss */
+  body .captions h1 span, body .banner-wrapper h1 span {
+    background: #fff;
+    border-left: solid 2px #861254;
+    padding: 10px !important;
+    color: #2cabe1;
+    display: inline-block;
+  }
+  /* line 368, ../../scss/features/overwrite_bootstrap.scss */
+  body .content-wrapper {
+    width: 98% !important;
+  }
+  /* line 371, ../../scss/features/overwrite_bootstrap.scss */
+  body .content-wrapper .content .left-nav {
+    margin: 0 !important;
+  }
+  /* line 374, ../../scss/features/overwrite_bootstrap.scss */
+  body .content-wrapper .content .left-nav ul {
+    border: none !important;
+    width: auto !important;
+  }
+  /* line 378, ../../scss/features/overwrite_bootstrap.scss */
+  body .content-wrapper .content .left-nav ul li {
+    font-size: 1em !important;
+  }
+  /* line 381, ../../scss/features/overwrite_bootstrap.scss */
+  body .content aside {
+    border: none !important;
+    padding: 10px 0 !important;
+  }
+  /* line 388, ../../scss/features/overwrite_bootstrap.scss */
+  body .navbar-nav > li {
+    background: none !important;
+  }
+  /* line 391, ../../scss/features/overwrite_bootstrap.scss */
+  body .navbar-nav > li > a {
+    padding: 5px !important;
+  }
+  /* line 393, ../../scss/features/overwrite_bootstrap.scss */
+  body .navbar-nav > li > a:hover {
+    background: none !important;
+  }
+  /* line 397, ../../scss/features/overwrite_bootstrap.scss */
+  body .scroll-down, body .bottomSlider {
+    display: none;
+  }
+  /* line 400, ../../scss/features/overwrite_bootstrap.scss */
+  body .twitter, body .linkedInIcon {
+    margin: 10px 10px 0 0 !important;
+  }
+  /* line 403, ../../scss/features/overwrite_bootstrap.scss */
+  body .sliderInfo {
+    background: url("../../images/curveImage3.png") no-repeat right top #efefef;
+    padding: 15px 20px;
+  }
+  /* line 407, ../../scss/features/overwrite_bootstrap.scss */
+  body .copyrights ul li {
+    margin: 0 !important;
+  }
+  /* line 410, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper {
+    display: block !important;
+  }
+  /* line 412, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .data-wrapper {
+    padding: 5px 10px !important;
+  }
+  /* line 414, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .data-wrapper h1 {
+    font-size: 1.2em;
+    color: #2cabe1;
+    margin: 5px 0 10px;
+  }
+  /* line 420, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .data-wrapper p {
+    color: #666;
+  }
+  /* line 425, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .partners {
+    background: #2cabe1;
+    padding: 15px 20px;
+    margin: 10px 0 25px 0;
+  }
+  /* line 429, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .partners h5 {
+    color: #fff;
+    margin: 0;
+  }
+  /* line 433, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .partners .partners-list {
+    padding: 10px;
+    margin: 8px 0 15px 0;
+    border-top: solid 1px #fff;
+    border-bottom: solid 1px #fff;
+  }
+  /* line 438, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .partners .partners-list img {
+    margin: 0;
+  }
+  /* line 443, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .partner-logos {
+    /*width: 75%;*/
+    margin: 0 auto 0 20px;
+    padding: 0;
+  }
+  /* line 447, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .partner-logos img {
+    margin: 0 10px 15px 0;
+  }
+  /* line 451, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .services-mob {
+    background: #d5d5d5;
+    padding: 35px 10px 15px 10px;
+  }
+  /* line 454, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .services-mob .list {
+    width: 90%;
+    margin: 0 auto;
+  }
+  /* line 457, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .services-mob .list ul {
+    margin: 0;
+    padding: 0;
+  }
+  /* line 460, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .services-mob .list ul li {
+    list-style: none;
+    background: url("../../images/curveImage3.png") no-repeat right top #efefef;
+    padding: 15px;
+    margin: 0 0 25px 0;
+  }
+  /* line 465, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .services-mob .list ul li h5 {
+    margin: 0 0 5px 0;
+    color: #861254;
+    font-size: 1em;
+  }
+  /* line 470, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .services-mob .list ul li h3 {
+    margin: 0;
+    color: #2cabe1;
+    font-size: 22px;
+  }
+  /* line 475, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-wrapper .services-mob .list ul li p {
+    margin: 10px 0;
+    line-height: normal;
+    font-size: 13px;
+  }
+  /* line 486, ../../scss/features/overwrite_bootstrap.scss */
+  body .titles h1 {
+    font-size: 1.3em !important;
+  }
+  /* line 490, ../../scss/features/overwrite_bootstrap.scss */
+  body .slider-titles {
+    padding: 0px !important;
+  }
+  /* line 492, ../../scss/features/overwrite_bootstrap.scss */
+  body .slider-titles h1 {
+    font-size: 20px !important;
+  }
+  /* line 496, ../../scss/features/overwrite_bootstrap.scss */
+  body .slider {
+    top: 160px !important;
+  }
+  /* line 499, ../../scss/features/overwrite_bootstrap.scss */
+  body .slider-container {
+    height: 650px !important;
+  }
+  /* line 502, ../../scss/features/overwrite_bootstrap.scss */
+  body .slides li {
+    padding: 0 72px !important;
+  }
+  /* line 505, ../../scss/features/overwrite_bootstrap.scss */
+  body .designation h2 {
+    font-size: 19px !important;
+  }
+  /* line 507, ../../scss/features/overwrite_bootstrap.scss */
+  body .designation h2 span {
+    font-size: 12px !important;
+  }
+  /* line 511, ../../scss/features/overwrite_bootstrap.scss */
+  body .tooltip-info {
+    left: 70px !important;
+  }
+  /* line 514, ../../scss/features/overwrite_bootstrap.scss */
+  body .banner-image1 {
+    background: url(../../images/mobile/slider1.jpg) no-repeat !important;
+    width: 100% !important;
+    height: 205px !important;
+    background-size: 100% !important;
+  }
+  /* line 520, ../../scss/features/overwrite_bootstrap.scss */
+  body .banner-image2 {
+    background: url(../../images/mobile/slider2.jpg) no-repeat;
+    width: 480px;
+    height: 205px;
+    background-size: 100% !important;
+  }
+  /* line 526, ../../scss/features/overwrite_bootstrap.scss */
+  body .banner-image3 {
+    background: url(../../images/mobile/slider3.jpg) no-repeat;
+    width: 480px;
+    height: 205px;
+    background-size: 100% !important;
+  }
+  /* line 532, ../../scss/features/overwrite_bootstrap.scss */
+  body .banner-image4 {
+    background: url(../../images/mobile/slider4.jpg) no-repeat;
+    width: 480px;
+    height: 205px;
+    background-size: 100% !important;
+  }
+  /* line 538, ../../scss/features/overwrite_bootstrap.scss */
+  body .office-add {
+    min-height: 13em !important;
+  }
+  /* line 540, ../../scss/features/overwrite_bootstrap.scss */
+  body .office-add iframe {
+    display: none;
+  }
+  /* line 543, ../../scss/features/overwrite_bootstrap.scss */
+  body .office-add h2 {
+    font-size: 1.1em !important;
+  }
+  /* line 546, ../../scss/features/overwrite_bootstrap.scss */
+  body .office-add .add-hide {
+    display: block !important;
+  }
+  /* line 549, ../../scss/features/overwrite_bootstrap.scss */
+  body .office-add .add-hide-img {
+    margin: 15px 0 10px 0 !important;
+    display: block !important;
+  }
+  /* line 554, ../../scss/features/overwrite_bootstrap.scss */
+  body .mobile-nav-bg {
+    background-color: #efefef;
+  }
+}
+@media (min-width: 768px) and (max-width: 1279px) {
+  /* line 560, ../../scss/features/overwrite_bootstrap.scss */
+  body a.logo1 {
+    width: 75% !important;
+  }
+  /* line 563, ../../scss/features/overwrite_bootstrap.scss */
+  body .navbar-nav > li > a {
+    font-size: 14px !important;
+    padding: 30px 15px !important;
+  }
+  /* line 567, ../../scss/features/overwrite_bootstrap.scss */
+  body .content-wrapper {
+    width: 100% !important;
+  }
+  /* line 570, ../../scss/features/overwrite_bootstrap.scss */
+  body .content aside {
+    border-left: none !important;
+    padding: 0px !important;
+  }
+  /* line 574, ../../scss/features/overwrite_bootstrap.scss */
+  body .left-nav {
+    margin: 0 !important;
+  }
+  /* line 577, ../../scss/features/overwrite_bootstrap.scss */
+  body .left-nav ul {
+    border: none !important;
+    width: auto !important;
+  }
+  /* line 581, ../../scss/features/overwrite_bootstrap.scss */
+  body .carousel-caption {
+    top: 3.5% !important;
+  }
+  /* line 584, ../../scss/features/overwrite_bootstrap.scss */
+  body #what-wedo-wrapper .we-do h1 {
+    font-size: 1.3em !important;
+  }
+}
+@media (min-width: 1281px) and (max-width: 1920px) {
+  /* line 695, ../../scss/features/overwrite_bootstrap.scss */
+  body .big-slide {
+    width: 1800px;
+    margin: 0 auto;
+  }
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  /* line 5, ../../scss/features/overwrite_bootstrap.scss */
+  body {
+    /* Styles */
+  }
+  /* line 707, ../../scss/features/overwrite_bootstrap.scss */
+  body .medium-slide, body .big-slide {
+    display: none;
+  }
+  /* line 710, ../../scss/features/overwrite_bootstrap.scss */
+  body .small-slide {
+    display: block;
+  }
+  /* line 713, ../../scss/features/overwrite_bootstrap.scss */
+  body .pointer {
+    background: none !important;
+  }
+  /* line 716, ../../scss/features/overwrite_bootstrap.scss */
+  body .head-quarter {
+    background: none !important;
+  }
+  /* line 719, ../../scss/features/overwrite_bootstrap.scss */
+  body .address-container {
+    display: none !important;
+  }
+  /* line 722, ../../scss/features/overwrite_bootstrap.scss */
+  body .services, body .what-we-do, body #what-wedo-wrapper, body .scroll-down {
+    display: none !important;
+  }
+}
+@media only screen and (min-width: 481px) {
+  /* line 5, ../../scss/features/overwrite_bootstrap.scss */
+  body {
+    /* Styles */
+  }
+  /* line 731, ../../scss/features/overwrite_bootstrap.scss */
+  body .small-slide, body .big-slide {
+    display: none;
+  }
+  /* line 734, ../../scss/features/overwrite_bootstrap.scss */
+  body .medium-slide {
+    display: block;
+  }
+}
+@media only screen and (max-width: 320px) {
+  /* line 5, ../../scss/features/overwrite_bootstrap.scss */
+  body {
+    /* Styles */
+  }
+  /* line 743, ../../scss/features/overwrite_bootstrap.scss */
+  body .medium-slide, body .big-slide {
+    display: none;
+  }
+  /* line 746, ../../scss/features/overwrite_bootstrap.scss */
+  body .small-slide {
+    display: block;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  /* line 5, ../../scss/features/overwrite_bootstrap.scss */
+  body {
+    /* Styles */
+  }
+  /* line 756, ../../scss/features/overwrite_bootstrap.scss */
+  body .small-slide, body .big-slide {
+    display: none;
+  }
+  /* line 759, ../../scss/features/overwrite_bootstrap.scss */
+  body .medium-slide {
+    display: block;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+  /* line 5, ../../scss/features/overwrite_bootstrap.scss */
+  body {
+    /* Styles */
+  }
+  /* line 770, ../../scss/features/overwrite_bootstrap.scss */
+  body .small-slide, body .big-slide {
+    display: none;
+  }
+  /* line 773, ../../scss/features/overwrite_bootstrap.scss */
+  body .medium-slide {
+    display: block;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+  /* line 5, ../../scss/features/overwrite_bootstrap.scss */
+  body {
+    /* Styles */
+  }
+  /* line 784, ../../scss/features/overwrite_bootstrap.scss */
+  body .small-slide, body .big-slide {
+    display: none;
+  }
+  /* line 787, ../../scss/features/overwrite_bootstrap.scss */
+  body .medium-slide {
+    display: block;
+  }
+}
+@media only screen and (min-width: 1224px) {
+  /* line 5, ../../scss/features/overwrite_bootstrap.scss */
+  body {
+    /* Styles */
+  }
+  /* line 796, ../../scss/features/overwrite_bootstrap.scss */
+  body .small-slide, body .medium-slide {
+    display: none;
+  }
+  /* line 799, ../../scss/features/overwrite_bootstrap.scss */
+  body .big-slide {
+    display: block;
+  }
+}
+@media only screen and (min-width: 1824px) {
+  /* line 5, ../../scss/features/overwrite_bootstrap.scss */
+  body {
+    /* Styles */
+  }
+  /* line 808, ../../scss/features/overwrite_bootstrap.scss */
+  body .small-slide, body .medium-slide {
+    display: none;
+  }
+  /* line 811, ../../scss/features/overwrite_bootstrap.scss */
+  body .big-slide {
+    display: block;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+  /* line 5, ../../scss/features/overwrite_bootstrap.scss */
+  body {
+    /* Styles */
+  }
+}
