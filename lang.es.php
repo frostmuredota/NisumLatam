@@ -1248,6 +1248,16 @@ $lang["elemIdindex.php188"] = "Con grandes resultados, Nisum Technologies partic
 
 $lang["elemIdindex.php189"] = "Lea más";
 
+/*      */
+
+$lang["elemIdindex.php190"] = "Noticias";
+
+$lang["elemIdindex.php191"] = "Nisum USA";
+
+$lang["elemIdindex.php192"] = "Nisum Technologies será sponsor del campeonato de mini golf YMCA en San Francisco, uno de los eventos de caridad más importantes de la bahía.";
+
+$lang["elemIdindex.php193"] = "Lea más";
+
 
 /*
     india-openings

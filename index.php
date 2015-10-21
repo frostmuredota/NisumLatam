@@ -431,6 +431,14 @@
                 <p class="team-description"><?php echo $lang['elemIdindex.php188']; ?></p>
                 <a href="shop-org.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php189']; ?></a> <span class="strips-bg" ></span></div>
               </li>
+			  <li style="opacity: 1;">
+                <div class="sliderInfo">
+                <h5><?php echo $lang['elemIdindex.php190']; ?></h5>
+                <h2><?php echo $lang['elemIdindex.php191']; ?></h2>
+                <img src="images/ymca.png" alt="YMCA" width="340" height="90">
+                <p class="team-description"><?php echo $lang['elemIdindex.php192']; ?></p>
+                <a href="http://www.ymcasf.org/kidstocampgolf/about_the_tournament" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php193']; ?></a> <span class="strips-bg" ></span></div>
+              </li>
           </ul>
         </div>
         <div class="right-scroll">
