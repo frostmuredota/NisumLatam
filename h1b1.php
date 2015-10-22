@@ -6,6 +6,8 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
 
 
+<link rel="stylesheet" type="text/css" href="css/features/main.css" />
+
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 
@@ -44,8 +46,10 @@
 
 
 	<title>Nisum</title>
+	<?php include_once "lang.es.php" ?>
 </header>
 <body>
+<?php include "header.php" ?>
 	<div id="wrapper" style="width:100%; text-align:center">
 		<img id="yourimage" src="img/h1b1.jpg"/>
 	</div>
@@ -54,7 +58,7 @@
 	
     <div id="boton" style="width:100%; text-align:center">
   
-		<p><a id="apply" style="font-family : trebuchet ms" class="btn btn-primary btn-lg" onClick="muestraFormulario()" role="button">Apply</a></p>
+		<p style="text-align:center"><a id="apply" style="font-family : trebuchet ms" class="btn btn-primary btn-lg " onClick="muestraFormulario()" role="button">Apply</a></p>
     
 	</div>
 	
@@ -68,6 +72,12 @@
 		<div  style="font-family: corbelregular;display:none" class="alert-box error"><span>Error: </span>Bad captcha, try again.</div>
 	
 	<form class="form-horizontal" method="POST" name="contactform" action="contact-form-handler.php"> 
+		<p>
+
+	<label class="control-label" style="font-family: corbelregular"  for='program'>Program:</label>
+	<span class="form-control"  >H1B1</span>
+
+	</p>
 	<p>
 
 	<label class="control-label" style="font-family: corbelregular"  for='name'>Your Name:</label> 
@@ -173,13 +183,13 @@ echo recaptcha_get_html($publickey, $error);
 										
 										
 										 $.ajax({
-										  url: 'sendEmail.php',
+										  url: 'sendEmailH1b.php',
 										  type: 'post',
 										  data: {'name': name, 'email': email, 'message': message},
 										  success: function(data, status) {
 
 												
-												window.location.href = "http://www.nisumlatam.com/h1b1/";
+												window.location.href = "http://www.nisumlatam.com/thankyou.php";
 												
 											}
 										  }
@@ -201,7 +211,7 @@ echo recaptcha_get_html($publickey, $error);
 	}
 	
 </script>	
-
+<?php include "footer.php" ?>
 	
 	
 </body>
