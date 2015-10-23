@@ -97,8 +97,8 @@
 <?php
 
 require_once('captcha/recaptchalib.php');
-$publickey = "6LfTNg8TAAAAANrdh60kwoZ55ZI3wi4g3nrqLP8a";
-$privatekey = "6LfTNg8TAAAAANy5qkvwn5Wgfrzgr7P6kRMXiNd8";
+$publickey = "6LfjZg8TAAAAAMcpZXyxcaHdD_q7YVyjPf8gMxpS";
+$privatekey = "6LfjZg8TAAAAAD3UXSmdq7IXs9pbX_v65Dc_g5DX";
 
 $resp = null;
 $error = null;
