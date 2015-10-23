@@ -1,6 +1,6 @@
 <html>
 <header>
-
+<meta charset="utf-8">
 
 <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
@@ -47,9 +47,10 @@
 
 	<title>Nisum</title>
 	<?php include_once "lang.es.php" ?>
+	<?php include "header.php" ?>
 </header>
 <body>
-<?php include "header.php" ?>
+
 	<div id="wrapper" style="width:100%; text-align:center">
 		<img id="yourimage" src="img/l1b.jpg"/>
 	</div>
