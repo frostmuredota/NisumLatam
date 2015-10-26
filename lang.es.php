@@ -1258,6 +1258,16 @@ $lang["elemIdindex.php192"] = "Nisum Technologies será sponsor del campeonato d
 
 $lang["elemIdindex.php193"] = "Lea más";
 
+/* Nisum search */
+
+$lang["elemIdindex.php194"] = "Noticias";
+
+$lang["elemIdindex.php195"] = "NISUM CHILE BUSCA";
+
+$lang["elemIdindex.php196"] = "Estamos buscando gente apasionada, segura y que quiera dejar una huella tanto en sus clientes como en sus compañeros de equipo.";
+
+$lang["elemIdindex.php197"] = "Lea más";   
+
 
 /*
     india-openings
@@ -2338,5 +2348,27 @@ $lang["shopOrg.php10"] = "Sin duda, esta fue una de las grandes atracciones del 
 $lang["shopOrg.php11"] = "Revisa los mejores momentos del #Shoporg15 aquí: ";
 
 $lang["shopOrg.php12"] = "http://summit15.shop.org/";
+
+/* Nisum Search */
+
+$lang["nisumSearch.php1"] = "NISUM BUSCA";
+
+$lang["nisumSearch.php2"] = "En Nisum estamos buscando talentos constantemente, nuestro principal foco y al mismo tiempo desafío, es el reclutamiento de personal que sea capaz de representar nuestra cultura y ofrecer a nuestros clientes un trabajo de calidad.";
+
+$lang["nisumSearch.php3"] = "Necesitamos gente con experiencia y con perspectiva, estamos buscando profesionales que tengan confianza en sí mismos y que puedan adaptarse a distintas culturas y tecnologías en constante desarrollo.";
+
+$lang["nisumSearch.php4"] = "Estamos buscando gente apasionada, segura y que quiera dejar una huella tanto en sus clientes como en sus compañeros de equipo.";
+
+$lang["nisumSearch.php5"] = "Revisa nuestra sección “Carreras” en";
+
+$lang["nisumSearch.php6"] = "http://www.nisumlatam.com/careers.php";
+
+$lang["nisumSearch.php7"] = "para conocer las oportunidades laborales que ofrecemos, actualmente:";
+
+$lang["nisumSearch.php8"] = "Desarrollador JAVA con altos conocimientos de UI (PDF)";
+
+$lang["nisumSearch.php9"] = "Coordinador de Despliegue (PDF)";
+
+$lang["nisumSearch.php10"] = "¡Tú puedes ser quien estamos buscando! ¡Postula!";
 
 ?>

@@ -280,9 +280,16 @@
     <div class="list">
       <ul>
 		<li>
+			<h5><?php echo $lang['elemIdindex.php194']; ?></h5>
+			<h2><?php echo $lang['elemIdindex.php195']; ?></h2>
+			<img src="images/nisumSearch.jpg" alt="Nisum Search" width="340" height="90">
+			<p class="team-description"><?php echo $lang['elemIdindex.php196']; ?></p>
+			<a href="nisum-search.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php197']; ?></a> <span class="strips-bg"></span>
+		</li>
+		<li>
 			<h5><?php echo $lang['elemIdindex.php186']; ?></h5>
 			<h2><?php echo $lang['elemIdindex.php187']; ?></h2>
-			<img src="images/shop-org.png" alt="Hour of Code" width="340" height="90">
+			<img src="images/shop-org.png" alt="Shop.org" width="340" height="90">
 			<p class="team-description"><?php echo $lang['elemIdindex.php188']; ?></p>
 			<a href="shop-org.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php165']; ?></a> <span class="strips-bg"></span>
 		</li>
@@ -438,6 +445,14 @@
                 <img src="images/ymca.png" alt="YMCA" width="340" height="90">
                 <p class="team-description"><?php echo $lang['elemIdindex.php192']; ?></p>
                 <a href="http://www.ymcasf.org/kidstocampgolf/about_the_tournament" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php193']; ?></a> <span class="strips-bg" ></span></div>
+              </li>
+			  <li style="opacity: 1;">
+                <div class="sliderInfo">
+                <h5><?php echo $lang['elemIdindex.php194']; ?></h5>
+                <h2><?php echo $lang['elemIdindex.php195']; ?></h2>
+                <img src="images/nisumSearch.jpg" alt="Nisum Busca" width="340" height="90">
+                <p class="team-description"><?php echo $lang['elemIdindex.php196']; ?></p>
+                <a href="nisum-search.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php197']; ?></a> <span class="strips-bg" ></span></div>
               </li>
           </ul>
         </div>
