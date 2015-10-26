@@ -1,10 +1,12 @@
 <html>
 <header>
-
+<meta charset="utf-8">
 
 <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
 
+
+<link rel="stylesheet" type="text/css" href="css/features/main.css" />
 
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
@@ -44,17 +46,20 @@
 
 
 	<title>Nisum</title>
+	<?php include_once "lang.es.php" ?>
+	<?php include "header.php" ?>
 </header>
 <body>
+
 	<div id="wrapper" style="width:100%; text-align:center">
-		<img id="yourimage" src="img/h1b1.jpg"/>
+		<img id="yourimage" src="img/l1b.jpg"/>
 	</div>
 	
 	<br>
 	
     <div id="boton" style="width:100%; text-align:center">
   
-		<p><a id="apply" style="font-family : trebuchet ms" class="btn btn-primary btn-lg" onClick="muestraFormulario()" role="button">Apply</a></p>
+		<p style="text-align:center"><a id="apply" style="font-family : trebuchet ms" class="btn btn-primary btn-lg" onClick="muestraFormulario()" role="button">Apply</a></p>
     
 	</div>
 	
@@ -68,6 +73,12 @@
 		<div  style="font-family: corbelregular;display:none" class="alert-box error"><span>Error: </span>Bad captcha, try again.</div>
 	
 	<form class="form-horizontal" method="POST" name="contactform" action="contact-form-handler.php"> 
+		<p>
+
+	<label class="control-label" style="font-family: corbelregular"  for='program'>Program:</label>
+	<span class="form-control"  >L1B</span>
+
+	</p>
 	<p>
 
 	<label class="control-label" style="font-family: corbelregular"  for='name'>Your Name:</label> 
@@ -85,8 +96,8 @@
 <?php
 
 require_once('captcha/recaptchalib.php');
-$publickey = "6LfTNg8TAAAAANrdh60kwoZ55ZI3wi4g3nrqLP8a";
-$privatekey = "6LfTNg8TAAAAANy5qkvwn5Wgfrzgr7P6kRMXiNd8";
+$publickey = "6LfjZg8TAAAAAMcpZXyxcaHdD_q7YVyjPf8gMxpS";
+$privatekey = "6LfjZg8TAAAAAD3UXSmdq7IXs9pbX_v65Dc_g5DX";
 
 $resp = null;
 $error = null;
@@ -173,13 +184,13 @@ echo recaptcha_get_html($publickey, $error);
 										
 										
 										 $.ajax({
-										  url: 'sendEmail.php',
+										  url: 'sendEmailL1b.php',
 										  type: 'post',
 										  data: {'name': name, 'email': email, 'message': message},
 										  success: function(data, status) {
 
 												
-												window.location.href = "http://www.nisumlatam.com/h1b1/";
+												window.location.href = "http://www.nisumlatam.com/thankyou.php";
 												
 											}
 										  }
@@ -201,7 +212,7 @@ echo recaptcha_get_html($publickey, $error);
 	}
 	
 </script>	
-
+<?php include "footer.php" ?>
 	
 	
 </body>

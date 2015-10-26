@@ -1,6 +1,6 @@
 <?php 
 $errors = '';
-$myemail = 'hrteam@nisum.com';//<-----Put Your email address here.
+$myemail = 'lpimentel@nisum.com';//<-----Put Your email address here.
 if(empty($_POST['name'])  || 
    empty($_POST['email']) || 
    empty($_POST['message']))
@@ -22,9 +22,9 @@ $email_address))
 if( empty($errors))
 {
 	$to = $myemail; 
-	$email_subject = "Contact form Visa H1B1 Chile: $name";
-	$email_body = "You have received a new message. ".
-	" Here are the details:\n Name: $name \n Email: $email_address \n Message \n $message"; 
+	$email_subject = "H1B1 Chile: Applicant: $name";
+	$email_body = "You have received a new applicant for H1B1 Chile program. ".
+	" Here are the details:\n Name: $name \n Email: $email_address \n Message: \n $message"; 
 	
 	$headers = "From: $myemail\n"; 
 	$headers .= "Reply-To: $email_address";
