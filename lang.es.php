@@ -1268,6 +1268,15 @@ $lang["elemIdindex.php196"] = "Estamos buscando gente apasionada, segura y que q
 
 $lang["elemIdindex.php197"] = "Lea más";   
 
+/* Seminario */
+
+$lang["elemIdindex.php198"] = "Noticias";
+
+$lang["elemIdindex.php199"] = "Seminario AGILE-LEAN";
+
+$lang["elemIdindex.php200"] = "El próximo 4 de Noviembre Nisum Chile realizará un seminario cerrado para clientes con charlistas internacionales para conversar sobre metodologías ágiles y el método Lean.";
+
+$lang["elemIdindex.php201"] = "Lea más";
 
 /*
     india-openings
@@ -2303,7 +2312,13 @@ $lang["elemIActivity.php14"] = "Nisum participó del Shop.Org 2015";
 
 $lang["elemIActivity.php15"] = "Este año, Nisum Technologies participó de Shop.org, la feria del retail digital más importante de América. ";
 
+$lang["elemIActivity.php16"] = "Nisum Chile Busca";
 
+$lang["elemIActivity.php17"] = "Estamos buscando gente apasionada, segura y que quiera dejar una huella tanto en sus clientes como en sus compañeros de equipo.";
+
+$lang["elemIActivity.php18"] = "Seminario El Impacto de las Metodologías AGILE-LEAN en Chile y el Mundo";
+
+$lang["elemIActivity.php19"] = "El próximo 4 de Noviembre Nisum Chile realizará un seminario cerrado para clientes con charlistas internacionales para conversar sobre metodologías ágiles y el método Lean.";
 
 /*  Lanzamiento la hora del código   */
 
@@ -2370,5 +2385,47 @@ $lang["nisumSearch.php8"] = "Desarrollador JAVA con altos conocimientos de UI (P
 $lang["nisumSearch.php9"] = "Coordinador de Despliegue (PDF)";
 
 $lang["nisumSearch.php10"] = "¡Tú puedes ser quien estamos buscando! ¡Postula!";
+
+/* Agile-Lean */
+
+$lang["agileLean.php1"] = "SEMINARIO EL IMPACTO DE LAS METODOLOGÍAS AGILE-LEAN EN CHILE Y EL MUNDO";
+
+$lang["agileLean.php2"] = "El próximo 4 de Noviembre Nisum Chile realizará un seminario cerrado para clientes con charlistas internacionales para conversar sobre metodologías ágiles y el método Lean.";
+
+$lang["agileLean.php3"] = "Por Camila Rosemblat C.";
+
+$lang["agileLean.php4"] = "Gran expectativa se genera en torno al próximo seminario “El impacto de las metodologías Agile-Lean en Chile y el mundo” que trae como speakers a los reconocidos autores Mary y Tom Poppendieck, expertos en el desarrollo del método Lean desde sus inicios. A ellos se suma Janel Wellborn, VP Product & Change Management de Nisum Technologies, Inc. quien expondrá sobre casos exitosos de implementaciones de este estilo en empresas Fortune 500; y Agustín Villena, CEO de Lean Sight Consulting y fundador de Chile Ágil, quien brindará sus conocimientos acerca de agilidad aplicada.";
+
+$lang["agileLean.php5"] = "Este evento se llevará a cabo en  colaboración con Ki Teknology y Lean Sight Consulting y se invitó a un selecto grupo de tomadores de decisión en tecnología de diferentes industrias, quienes disfrutarán de un desayuno en las oficinas de Amcham Chile en el Hotel Marriott, al tiempo que se instruirán con estas interesantes charlas.";
+
+$lang["agileLean.php6"] = "El detalle del programa es el siguiente:";
+
+$lang["agileLean.php7"] = "Mary y Tom Poppendieck:";
+
+$lang["agileLean.php8"] = "http://www.poppendieck.com/people.htm";
+
+$lang["agileLean.php9"] = "Charla “Lean Software Development - A History”";
+
+$lang["agileLean.php10"] = "Orientada a tomadores de decisión en el área de las tecnologías de la información sobre los beneficios del pensamiento lean. Se expondrá la historia del desarrollo de software en base al pensamiento lean para mostrar cómo este ha ayudado a cambiar el modo en que empresas exitosas piensan respecto al software.";
+
+$lang["agileLean.php11"] = "Más información:";
+
+$lang["agileLean.php12"] = "http://www.leanessays.com/2015/06/lean-software-development-history.html";
+
+$lang["agileLean.php13"] = "Agustín Villena:";
+
+$lang["agileLean.php14"] = "https://www.linkedin.com/in/agustinvillena";
+
+$lang["agileLean.php15"] = "Charla “En busca de la Agilidad Esencial”";
+
+$lang["agileLean.php16"] = "El ecosistema ágil posee una complejidad no menor de herramientas y prácticas, métodos, principios, y claro, adoptar uno u otro no garantiza adoptar el status “ágil”. Esta charla busca dar luces sobre qué es la Agilidad para definir un Norte al proceso de cambio y orientado a resultados. Además se explorarán obstáculos comunes que los paradigmas organizacionales tradicionales presentan para lograr la ansiada Agilidad.";
+
+$lang["agileLean.php17"] = "Janel Wellborn:";
+
+$lang["agileLean.php18"] = "https://www.linkedin.com/in/janelwellborn/es";
+
+$lang["agileLean.php19"] = "Charla “Beneficios y mejores prácticas en la implementación del método agil lean en grandes empresas”";
+
+$lang["agileLean.php20"] = "Janel Wellborn expondrá nociones básicas acerca del método Lean, sus ventajas y formas de enseñarlo a partir de casos de estudio reales completados con éxito a lo largo de su basta carrera y experiencia en Ágil.";
 
 ?>
