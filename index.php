@@ -280,6 +280,13 @@
     <div class="list">
       <ul>
 		<li>
+			<h5><?php echo $lang['elemIdindex.php202']; ?></h5>
+			<h2><?php echo $lang['elemIdindex.php203']; ?></h2>
+			<img src="images/agile-lean-portada.jpg" alt="Nisum Search" width="340" height="90">
+			<p class="team-description"><?php echo $lang['elemIdindex.php204']; ?></p>
+			<a href="agile-lean.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php205']; ?></a> <span class="strips-bg"></span>
+		</li>
+		<li>
 			<h5><?php echo $lang['elemIdindex.php198']; ?></h5>
 			<h2><?php echo $lang['elemIdindex.php199']; ?></h2>
 			<img src="images/ProgramaSeminarioP.jpg" alt="Nisum Search" width="340" height="90">
@@ -468,6 +475,14 @@
                 <img src="images/ProgramaSeminarioP.jpg" alt="Seminario" width="340" height="90">
                 <p class="team-description"><?php echo $lang['elemIdindex.php200']; ?></p>
                 <a href="agile-lean.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php201']; ?></a> <span class="strips-bg" ></span></div>
+              </li>
+			  <li style="opacity: 1;">
+                <div class="sliderInfo">
+                <h5><?php echo $lang['elemIdindex.php202']; ?></h5>
+                <h2><?php echo $lang['elemIdindex.php203']; ?></h2>
+                <img src="images/agile-lean-portada.jpg" alt="Seminario" width="340" height="90">
+                <p class="team-description"><?php echo $lang['elemIdindex.php204']; ?></p>
+                <a href="agile-lean-2015.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php205']; ?></a> <span class="strips-bg" ></span></div>
               </li>
           </ul>
         </div>

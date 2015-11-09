@@ -1278,6 +1278,16 @@ $lang["elemIdindex.php200"] = "El próximo 4 de Noviembre Nisum Chile realizará
 
 $lang["elemIdindex.php201"] = "Lea más";
 
+/*  SEMINARIO #AgileLeanChile 2015  */
+
+$lang["elemIdindex.php202"] = "Noticias";
+
+$lang["elemIdindex.php203"] = "#AgileLeanChile 2015";
+
+$lang["elemIdindex.php204"] = "El 4 de noviembre de 2015 se realizó el seminario sobre metodologías #AgileLeanChile 2015";
+
+$lang["elemIdindex.php205"] = "Lea más";
+
 /*
     india-openings
 */
@@ -2320,6 +2330,11 @@ $lang["elemIActivity.php18"] = "Seminario El Impacto de las Metodologías AGILE-
 
 $lang["elemIActivity.php19"] = "El próximo 4 de Noviembre Nisum Chile realizará un seminario cerrado para clientes con charlistas internacionales para conversar sobre metodologías ágiles y el método Lean.";
 
+$lang["elemIActivity.php20"] = "#AgileLeanChile 2015";
+
+$lang["elemIActivity.php21"] = "El 4 de noviembre de 2015 se realizó el seminario sobre metodologías #AgileLeanChile 2015";
+
+
 /*  Lanzamiento la hora del código   */
 
 $lang["releaseHourOfTheCode.php1"] = "LANZAMIENTO OFICIAL DE LA HORA DEL CÓDIGO EN CHILE";
@@ -2427,5 +2442,25 @@ $lang["agileLean.php18"] = "https://www.linkedin.com/in/janelwellborn/es";
 $lang["agileLean.php19"] = "Charla “Beneficios y mejores prácticas en la implementación del método agil lean en grandes empresas”";
 
 $lang["agileLean.php20"] = "Janel Wellborn expondrá nociones básicas acerca del método Lean, sus ventajas y formas de enseñarlo a partir de casos de estudio reales completados con éxito a lo largo de su basta carrera y experiencia en Ágil.";
+
+/* Agile-lean-2015.php  */
+
+$lang["agileLean2015.php1"] = "Seminario “El Impacto de las Metodologías Agile-Lean en Chile y el Mundo”";
+
+$lang["agileLean2015.php2"] = "El 4 de noviembre de 2015 se realizó el seminario sobre metodologías #AgileLeanChile 2015 que trajo como expositores a los estadounidenses Mary y Tom Poppendieck y que contó con excepcionales charlas de Janel Wellborn y Agustín Villena.";
+
+$lang["agileLean2015.php3"] = "Por Camila Rosemblat C.";
+
+$lang["agileLean2015.php4"] = "Con una gran convocatoria y en un ambiente distendido se llevó a cabo el seminario #AgileLeanChile 2015 que brindó a los invitados de Nisum Chile, Ki Teknology y LeanSight, interesantes e instructivas charlas acerca del impacto de las metodologías que hoy son tendencia en Estados Unidos y Europa.";
+
+$lang["agileLean2015.php5"] = "En la tercera visita que realiza este año a Chile, Janel Wellborn, VP Product & Change Management de Nisum Technologies, tuvo oportunidad de compartir sus experiencias en implementación de agile-lean en grandes corporaciones en USA con una visión muy orientada a resolver los problemas de los clientes por sobre la entrega de tecnología. No solo realizó una magistral clase express de Lean durante su charla sino que además lideró la conversación integrando a todos los asistentes.";
+
+$lang["agileLean2015.php6"] = "Janel Wellborn, expuso casos de éxitos donde estas metodologías fueron protagonistas; explicó la aceleración digital de Waterfall a Agile y de Agile a Lean, el cual definió como “el más rápido y efectivo de los métodos”, y especificó las vías mediante las cuales un “LeanTeam” empoderado puede ayudar a cualquier gran empresa a hacer más, mejor y más rápido. ";
+
+$lang["agileLean2015.php7"] = "La primera charla estuvo a cargo de Mary y Tom Poppendieck, pioneros en la aplicación del “Lean Thinking” en el desarrollo de software y autores de varias publicaciones como: “Lean Software Development” y “The Lean Mindset”, entre otras. Durante su exposición, los especialistas explicaron de qué se trata el uso y aplicación de estas metodologías y sus principios; analizaron famosos sistemas de producción, enseñaron los pilares y destacaron que el método Lean propone optimizar la totalidad de cada proyecto que lo adopta.";
+
+$lang["agileLean2015.php8"] = "Luego de los Poppendieck fue el turno de Agustín Villena, CEO de Lean Sight y fundador de Chile Ágil, quien en una charla muy práctica y sencilla de entender brindó sus conocimientos acerca de agilidad aplicada con interesantes ejemplos; explicó cómo solucionar problemas mediante metodologías Agile-Lean y cómo liberar el talento oculto colectivo de equipos de trabajo a través de ellas.";
+
+$lang["agileLean2015.php9"] = "Esta es otra de las instancias en las que se comprueba, con la ayuda de los expositores invitados al seminario, que Sudamérica está en las primeras etapas del recorrido a la transformación Ágil y Lean, “creo que estamos llegando a ese momentum que buscamos desde Nisum Technologies pero para alcanzarlo hay que seguir evangelizando”, comentó Janel Wellborn.";
 
 ?>
