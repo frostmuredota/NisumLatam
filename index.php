@@ -484,6 +484,14 @@
                 <p class="team-description"><?php echo $lang['elemIdindex.php204']; ?></p>
                 <a href="agile-lean-2015.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php205']; ?></a> <span class="strips-bg" ></span></div>
               </li>
+			  <li style="opacity: 1;">
+                <div class="sliderInfo">
+                <h5><?php echo $lang['elemIdindex.php206']; ?></h5>
+                <h2><?php echo $lang['elemIdindex.php207']; ?></h2>
+                <img src="images/mary.jpg" alt="Seminario" width="340" height="90">
+                <p class="team-description"><?php echo $lang['elemIdindex.php208']; ?></p>
+                <a href="poppendieck.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php209']; ?></a> <span class="strips-bg" ></span></div>
+              </li>
           </ul>
         </div>
         <div class="right-scroll">

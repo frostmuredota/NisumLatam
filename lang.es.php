@@ -1288,6 +1288,16 @@ $lang["elemIdindex.php204"] = "El 4 de noviembre de 2015 se realizó el seminari
 
 $lang["elemIdindex.php205"] = "Lea más";
 
+/* Poppendieck */
+
+$lang["elemIdindex.php206"] = "Entrevista";
+
+$lang["elemIdindex.php207"] = "Mary y Tom Poppendieck";
+
+$lang["elemIdindex.php208"] = "Mary y Tom Poppendieck participaron del Seminario #AgileLeanChile 2015 que Nisum organizó el pasado 4 de noviembre.";
+
+$lang["elemIdindex.php209"] = "Lea más";
+
 /*
     india-openings
 */
@@ -2334,6 +2344,10 @@ $lang["elemIActivity.php20"] = "#AgileLeanChile 2015";
 
 $lang["elemIActivity.php21"] = "El 4 de noviembre de 2015 se realizó el seminario sobre metodologías #AgileLeanChile 2015";
 
+$lang["elemIActivity.php22"] = "“Chile y América Latina están en el camino correcto”, Mary y Tom Poppendieck.";
+
+$lang["elemIActivity.php23"] = "Mary y Tom Poppendieck participaron del Seminario #AgileLeanChile 2015 que Nisum organizó el pasado 4 de noviembre.";
+
 
 /*  Lanzamiento la hora del código   */
 
@@ -2462,5 +2476,25 @@ $lang["agileLean2015.php7"] = "La primera charla estuvo a cargo de Mary y Tom Po
 $lang["agileLean2015.php8"] = "Luego de los Poppendieck fue el turno de Agustín Villena, CEO de Lean Sight y fundador de Chile Ágil, quien en una charla muy práctica y sencilla de entender brindó sus conocimientos acerca de agilidad aplicada con interesantes ejemplos; explicó cómo solucionar problemas mediante metodologías Agile-Lean y cómo liberar el talento oculto colectivo de equipos de trabajo a través de ellas.";
 
 $lang["agileLean2015.php9"] = "Esta es otra de las instancias en las que se comprueba, con la ayuda de los expositores invitados al seminario, que Sudamérica está en las primeras etapas del recorrido a la transformación Ágil y Lean, “creo que estamos llegando a ese momentum que buscamos desde Nisum Technologies pero para alcanzarlo hay que seguir evangelizando”, comentó Janel Wellborn.";
+
+/* Poppendieck */
+
+$lang["poppendieck.php1"] = "“Chile y América Latina están en el camino correcto”, Mary y Tom Poppendieck.";
+
+$lang["poppendieck.php2"] = "Pioneros en la aplicación del “Lean Thinking” al desarrollo de software y autores de varias publicaciones relacionadas, los estadounidenses Mary y Tom Poppendieck participaron del Seminario #AgileLeanChile 2015 que Nisum organizó el pasado 4 de noviembre para un selecto grupo de clientes y amigos. En esta entrevista exclusiva entregan su visión respecto de la realidad tecnológica de Latinoamérica.";
+
+$lang["poppendieck.php3"] = "Por Camila Rosemblat C.";
+
+$lang["poppendieck.php4"] = "Mary y Tom Poppendieck son marido y mujer, juntos se adentraron en el mundo ágil hace muchos años y este los conquistó de tal forma que los condujo a ser casi fundadores de la metodología Lean, actualmente considerada una de las más rápidas en el mundo tecnológico. Son autores de publicaciones que sostienen y declaran los principios de esta metodología y las que se usan para enseñarla. Entre ellas se encuentran: “Lean Software Development”, “Implementing Lean Software Development”, “Leading Lean Software Development” y “The Lean Mindset”. ";
+
+$lang["poppendieck.php5"] = "Durante su exposición en el Seminario #AgileLeanChile 2015, los especialistas explicaron de qué se trata el uso y aplicación de estas metodologías y sus principios; esta es la segunda vez que visitan Chile, vienen de Montevideo, Uruguay, donde Mary realizó una “KeyNote” y una conferencia sobre Agile, también estuvieron en Sao Paulo, Brasil y luego de su estadía en el país, durante la que participarán en la feria StarTechConf, se dirigen hacia la Antártica a seguir comunicando su labor en materias de desarrollo Agile-Lean.";
+
+$lang["poppendieck.php6"] = "“Estoy impresionada con la StarTechConference porque es la primera vez que veo una conferencia tecnológica y no solo “Ágil” en Sudamérica”, comenta Mary. ";
+
+$lang["poppendieck.php7"] = "Para los Poppendieck el análisis de famosos sistemas de producción es fundamental para poder enseñar los pilares de la metodología Lean y lograr hacer entender a la gente que esta propone optimizar la totalidad de cada proyecto que la adopta.";
+
+$lang["poppendieck.php8"] = "Sin embargo, mirar no significa copiar, para Tom, la lección más importante, que transmitió al finalizar su presentación en #AgileLeanChile, es que para poder ser parte de la transformación Agile-Lean que está viviendo el mundo, “es fundamental no copiar prácticas. Hay que entender los principios, organizar el esfuerzo conjunto para resolver problemas y pensar que seguir el patrón de simplemente implementar los requerimientos de alguien más, no va a tener un impacto significativo en el negocio que intenta lograr esta transformación”. ";
+
+$lang["poppendieck.php9"] = "Para concluir, Mary Poppendieck comentó que observa que Sudamérica está 2 o 3 años atrasada respecto de lo que está pasando en Estados Unidos y Europa, donde hay un rápido aceleramiento de la entrega continua, pero que espera que pronto todo eso llegué al cono sur del mundo. “Creo que está empezando a pasar, de hecho algunas de estas tecnologías son las que veremos en StarTechConf, estoy segura que Sudamérica se va a mover rápidamente para alcanzar un flujo rápido de entrega continua”, dice.“Están en el camino correcto para llegar a ese futuro, la tecnología está lista, los problemas se han identificado, la organización de gobierno y cultura de negocios puede tomar un poco más, pero una vez que se unan fuerzas podrán alcanzar lo que se vive afuera”, concluye Tom Poppendieck.";
 
 ?>

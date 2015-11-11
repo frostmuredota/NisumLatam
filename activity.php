@@ -44,6 +44,18 @@
 			<div class="row">
 					<section>
 						<div class="col-md-4">
+							<img width="400" src="images/poppendieck-mini.jpg" alt="Poppendieck"/>
+						</div>
+						<div class="col-md-8">
+						<h1><?php echo $lang['elemIActivity.php22']; ?></h1>
+						<p><?php echo $lang['elemIActivity.php23']; ?></p>
+							<a href="poppendieck.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIActivity.php5']; ?></a> <span class="strips-bg"></span>
+						</div>
+					</section>
+			</div>
+			<div class="row">
+					<section>
+						<div class="col-md-4">
 							<img width="400" src="images/agile-lean-portada.jpg" alt="Seminario Agile"/>
 						</div>
 						<div class="col-md-8">
