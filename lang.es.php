@@ -1298,6 +1298,16 @@ $lang["elemIdindex.php208"] = "Mary y Tom Poppendieck participaron del Seminario
 
 $lang["elemIdindex.php209"] = "Lea más";
 
+/*star tech*/
+
+$lang["elemIdindex.php210"] = "Noticias";
+
+$lang["elemIdindex.php211"] = "STARTECH CONFERENCE";
+
+$lang["elemIdindex.php212"] = "Nisum Chile fue sponsor oficial del evento de tecnología más importante de Chile y uno de los más importantes de Sudamérica.";
+
+$lang["elemIdindex.php213"] = "Lea más";
+
 /*
     india-openings
 */
@@ -2348,6 +2358,10 @@ $lang["elemIActivity.php22"] = "“Chile y América Latina están en el camino c
 
 $lang["elemIActivity.php23"] = "Mary y Tom Poppendieck participaron del Seminario #AgileLeanChile 2015 que Nisum organizó el pasado 4 de noviembre.";
 
+$lang["elemIActivity.php24"] = "STARTECH CONFERENCE";
+
+$lang["elemIActivity.php25"] = "Nisum Chile fue sponsor oficial del evento de tecnología más importante de Chile y uno de los más importantes de Sudamérica.";
+
 
 /*  Lanzamiento la hora del código   */
 
@@ -2496,5 +2510,26 @@ $lang["poppendieck.php7"] = "Para los Poppendieck el análisis de famosos sistem
 $lang["poppendieck.php8"] = "Sin embargo, mirar no significa copiar, para Tom, la lección más importante, que transmitió al finalizar su presentación en #AgileLeanChile, es que para poder ser parte de la transformación Agile-Lean que está viviendo el mundo, “es fundamental no copiar prácticas. Hay que entender los principios, organizar el esfuerzo conjunto para resolver problemas y pensar que seguir el patrón de simplemente implementar los requerimientos de alguien más, no va a tener un impacto significativo en el negocio que intenta lograr esta transformación”. ";
 
 $lang["poppendieck.php9"] = "Para concluir, Mary Poppendieck comentó que observa que Sudamérica está 2 o 3 años atrasada respecto de lo que está pasando en Estados Unidos y Europa, donde hay un rápido aceleramiento de la entrega continua, pero que espera que pronto todo eso llegué al cono sur del mundo. “Creo que está empezando a pasar, de hecho algunas de estas tecnologías son las que veremos en StarTechConf, estoy segura que Sudamérica se va a mover rápidamente para alcanzar un flujo rápido de entrega continua”, dice.“Están en el camino correcto para llegar a ese futuro, la tecnología está lista, los problemas se han identificado, la organización de gobierno y cultura de negocios puede tomar un poco más, pero una vez que se unan fuerzas podrán alcanzar lo que se vive afuera”, concluye Tom Poppendieck.";
+
+/* StarTechConf */
+
+$lang["startechconf.php1"] = "NISUM CHILE EN STARTECH CONFERENCE";
+
+$lang["startechconf.php2"] = "Nisum Chile fue sponsor oficial del evento de tecnología más importante de Chile y uno de los más importantes de Sudamérica.";
+
+$lang["startechconf.php3"] = "Por Camila Rosemblat C.";
+
+$lang["startechconf.php4"] = "La conferencia que unió a estrellas mundiales en desarrollo de software y expertos locales para hablar de UX, Programación, Web, Móvil, Negocios, Cultura, Innovación y Emprendimiento se llevó a cabo el 6 y 7 de noviembre en la sede San Joaquín de la Universidad Federico Santa María. ";
+
+$lang["startechconf.php5"] = "Nisum Chile fue uno de sus sponsors oficiales y participó activamente con un divertido stand en el que se desarrollaron entretenidas actividades. Además de dar a conocer la labor de Nisum, hacer reclutamiento e instrucción, tuvimos lindos regalos y realizamos sorteos diarios cuyos ganadores se llevaron unos novedosos parlantes de premio.";
+
+$lang["startechconf.php6"] = "Verónica Michelson de nuestro equipo de Recursos Humanos se refirió al éxito de haber sido parte de StarTechConf: “Fue importante nuestra participación para darnos a conocer como empresa en Chile y a la vez para atraer nuevos talentos a la Compañía. Creemos que este doble objetivo se logró y esperamos que en el corto plazo se puedan unir a nuestro equipo de trabajo varios profesionales que estuvieron presentes en este evento”, dijo.";
+
+$lang["startechconf.php7"] = "StarTechConf convocó a reconocidos speakers del mundo Agile y Lean entre ellos: Andrés Barreto, Christian Legnitt, Raffi Krikorian, Jafar Husain, José Miguel Piquer, Jane Austin, Jano Gonzále y Mary y Tom Poppendieck. Las charlas plenarias (“keynotes”) de esta versión de la feria  trajeron novedades y dieron a conocer tecnologías de última generación. Gracias a esto se debió la afluencia de público y gran convocatoria de personas interesadas en el mundo tech, que por lo tanto, se interesaron mucho en conocer de qué se trata Nisum Chile.";
+
+$lang["startechconf.php8"] = "“Fue una experiencia muy enriquecedora, se trabajó duro pero logramos el objetivo, recibimos a mucha gente interesada que esperamos se convierta en parte de Nisum en el corto plazo. Esperamos repetir la experiencia y estar presentes el próximo año”, comentó Carolina Escudero, del equipo de Recursos Humanos de Nisum Chile.";
+
+$lang["startechconf.php9"] = "Revisa la galería fotográfica de StarTechConf a continuación.";
+
 
 ?>

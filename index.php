@@ -357,22 +357,6 @@
                 <a href="chile-openings.php" value="Learn More" class="btn-sm learn-more left" target="_blank"><?php echo $lang['elemIdindex.php128']; ?></a> <span class="strips-bg"></span> </div>                
               </li>
 			  <li style="opacity: 1;">
-                <div class="sliderInfo">
-                <h5><?php echo $lang['elemIdindex.php129']; ?></h5>
-                <h2><?php echo $lang['elemIdindex.php130']; ?></h2>
-                <img src="images/Awards.jpg" alt="service" width="340" height="90">
-                <p><?php echo $lang['elemIdindex.php131']; ?></p>
-                <a href="http://www.bintelligence.com/2015-judges/2015/8/12/sajid-mohamedy-nisum-technologies" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php132']; ?></a><span class="strips-bg"></span> </div>
-              </li>
-			  <li style="opacity: 1;">
-                <div class="sliderInfo">
-                <h5><?php echo $lang['elemIdindex.php133']; ?></h5>
-                <h2><?php echo $lang['elemIdindex.php134']; ?></h2>
-                <img src="images/galleryImg6.jpg" alt="Happenings" width="340" height="90">
-                <p class="team-description"><?php echo $lang['elemIdindex.php135']; ?></p>
-                <a href="http://www.prweb.com/releases/2014/07/prweb12013697.htm" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php136']; ?></a> <span class="strips-bg"></span> </div>
-              </li>
-			  <li style="opacity: 1;">
 				<div class="sliderInfo">
 				<h5><?php echo $lang['elemIdindex.php113']; ?></h5>
 				<h2><?php echo $lang['elemIdindex.php114']; ?></h2>
@@ -380,38 +364,6 @@
 				<p class="team-description"><?php echo $lang['elemIdindex.php115']; ?></p>
 				<a href="team.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php116']; ?></a> <span class="strips-bg"></span> </div>
 			   </li>
-			   <li style="opacity: 1;">
-                <div class="sliderInfo">
-                <h5><?php echo $lang['elemIdindex.php117']; ?></h5>
-                <h2><?php echo $lang['elemIdindex.php118']; ?></h2>
-                <img src="images/galleryImg7.png" alt="For the Kids" width="340" height="90">
-                <p class="team-description"><?php echo $lang['elemIdindex.php119']; ?></p>
-                <a href="http://www.ymcasf.org/kidstocampgolf" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php120']; ?></a> <span class="strips-bg"></span> </div>
-              </li>
-			  <li style="opacity: 1;">
-                <div class="sliderInfo">
-                <h5><?php echo $lang['elemIdindex.php121']; ?></h5>
-                <h2><?php echo $lang['elemIdindex.php122']; ?></h2>
-                <img src="images/innovations.jpg" alt="Innovations" width="340" height="90">
-                <p class="team-description"><?php echo $lang['elemIdindex.php123']; ?></p>
-                <a href="#" value="Learn More" class="btn-sm learn-more left" style="visibility:hidden;"><?php echo $lang['elemIdindex.php124']; ?></a> <span class="strips-bg" style="visibility:hidden;"></span></div>
-              </li>
-			  <li style="opacity: 1;">
-                <div class="sliderInfo">
-                <h5><?php echo $lang['elemIdindex.php162']; ?></h5>
-                <h2><?php echo $lang['elemIdindex.php163']; ?></h2>
-                <img src="images/weare100.jpg" alt="WeAre100" width="340" height="90">
-                <p class="team-description"><?php echo $lang['elemIdindex.php164']; ?></p>
-                <a href="we-are-100.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php165']; ?></a> <span class="strips-bg"></span></div>
-              </li>
-			  <li style="opacity: 1;">
-                <div class="sliderInfo">
-                <h5><?php echo $lang['elemIdindex.php166']; ?></h5>
-                <h2><?php echo $lang['elemIdindex.php167']; ?></h2>
-                <img src="images/chiledigital.jpg" alt="ChileDigital" width="340" height="90">
-                <p class="team-description"><?php echo $lang['elemIdindex.php168']; ?></p>
-                <a href="chile-digital.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php169']; ?></a> <span class="strips-bg" ></span></div>
-              </li>
 			  <li style="opacity: 1;">
                 <div class="sliderInfo">
                 <h5><?php echo $lang['elemIdindex.php170']; ?></h5>
@@ -419,30 +371,6 @@
                 <img src="images/latam-project.jpg" alt="Latam" width="340" height="90">
                 <p class="team-description"><?php echo $lang['elemIdindex.php172']; ?></p>
                 <a href="first-latam-project.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php173']; ?></a> <span class="strips-bg" ></span></div>
-              </li>
-			  <li style="opacity: 1;">
-                <div class="sliderInfo">
-                <h5><?php echo $lang['elemIdindex.php174']; ?></h5>
-                <h2><?php echo $lang['elemIdindex.php175']; ?></h2>
-                <img src="images/janel.jpg" alt="Janel" width="340" height="90" style="padding-left: 90px;padding-right:90px">
-                <p class="team-description"><?php echo $lang['elemIdindex.php176']; ?></p>
-                <a href="janel-visit-chile.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php177']; ?></a> <span class="strips-bg" ></span></div>
-              </li>
-			  <li style="opacity: 1;">
-                <div class="sliderInfo">
-                <h5><?php echo $lang['elemIdindex.php178']; ?></h5>
-                <h2><?php echo $lang['elemIdindex.php179']; ?></h2>
-                <img src="images/hora-del-codigo.png" alt="Hora del código" width="340" height="90">
-                <p class="team-description"><?php echo $lang['elemIdindex.php180']; ?></p>
-                <a href="hour-of-the-code.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php181']; ?></a> <span class="strips-bg" ></span></div>
-              </li>
-			  <li style="opacity: 1;">
-                <div class="sliderInfo">
-                <h5><?php echo $lang['elemIdindex.php182']; ?></h5>
-                <h2><?php echo $lang['elemIdindex.php183']; ?></h2>
-                <img src="images/releaseHourOfCode.jpg" alt="Hora del código" width="340" height="90">
-                <p class="team-description"><?php echo $lang['elemIdindex.php184']; ?></p>
-                <a href="release-hour-of-code.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php185']; ?></a> <span class="strips-bg" ></span></div>
               </li>
 			  <li style="opacity: 1;">
                 <div class="sliderInfo">
@@ -491,6 +419,14 @@
                 <img src="images/mary.jpg" alt="Seminario" width="340" height="90">
                 <p class="team-description"><?php echo $lang['elemIdindex.php208']; ?></p>
                 <a href="poppendieck.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php209']; ?></a> <span class="strips-bg" ></span></div>
+              </li>
+			  <li style="opacity: 1;">
+                <div class="sliderInfo">
+                <h5><?php echo $lang['elemIdindex.php210']; ?></h5>
+                <h2><?php echo $lang['elemIdindex.php211']; ?></h2>
+                <img src="images/star-tech.jpg" alt="Seminario" width="340" height="90">
+                <p class="team-description"><?php echo $lang['elemIdindex.php212']; ?></p>
+                <a href="startechconf.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php213']; ?></a> <span class="strips-bg" ></span></div>
               </li>
           </ul>
         </div>
