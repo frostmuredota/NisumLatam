@@ -1308,6 +1308,7 @@ $lang["elemIdindex.php212"] = "Nisum Chile fue sponsor oficial del evento de tec
 
 $lang["elemIdindex.php213"] = "Lea más";
 
+
 $lang["elemIdindex.php214"] = "Noticias";
 
 $lang["elemIdindex.php215"] = "Global Day of Code Retreat";
@@ -1315,6 +1316,7 @@ $lang["elemIdindex.php215"] = "Global Day of Code Retreat";
 $lang["elemIdindex.php216"] = "El sábado 14 de noviembre Nisum Chile fue una de las sedes mundiales desde las que se llevó a cabo, en simultáneo, el GlobalDay of CodeRetreat 2015.";
 
 $lang["elemIdindex.php217"] = "Lea más";
+
 
 $lang["elemIdindex.php218"] = "Entrevista";
 

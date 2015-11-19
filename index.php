@@ -280,11 +280,39 @@
     <div class="list">
       <ul>
 		<li>
+			<h5><?php echo $lang['elemIdindex.php218']; ?></h5>
+			<h2><?php echo $lang['elemIdindex.php219']; ?></h2>
+			<img src="images/portadaJanel.jpg" alt="Nisum Search" width="340" height="90">
+			<p class="team-description"><?php echo $lang['elemIdindex.php220']; ?></p>
+			<a href="janelwellborn.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php221']; ?></a> <span class="strips-bg"></span>
+		</li>
+		<li>
+			<h5><?php echo $lang['elemIdindex.php214']; ?></h5>
+			<h2><?php echo $lang['elemIdindex.php215']; ?></h2>
+			<img src="images/portadaCode.jpg" alt="Nisum Search" width="340" height="90">
+			<p class="team-description"><?php echo $lang['elemIdindex.php2016']; ?></p>
+			<a href="codeRetreat.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php217']; ?></a> <span class="strips-bg"></span>
+		</li>
+		<li>
+			<h5><?php echo $lang['elemIdindex.php210']; ?></h5>
+			<h2><?php echo $lang['elemIdindex.php211']; ?></h2>
+			<img src="images/star-tech.jpg" alt="Nisum Search" width="340" height="90">
+			<p class="team-description"><?php echo $lang['elemIdindex.php2012']; ?></p>
+			<a href="startechconf.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php213']; ?></a> <span class="strips-bg"></span>
+		</li>
+		<li>
+			<h5><?php echo $lang['elemIdindex.php206']; ?></h5>
+			<h2><?php echo $lang['elemIdindex.php207']; ?></h2>
+			<img src="images/mary.jpg" alt="Nisum Search" width="340" height="90">
+			<p class="team-description"><?php echo $lang['elemIdindex.php208']; ?></p>
+			<a href="poppendieck.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php209']; ?></a> <span class="strips-bg"></span>
+		</li>
+		<li>
 			<h5><?php echo $lang['elemIdindex.php202']; ?></h5>
 			<h2><?php echo $lang['elemIdindex.php203']; ?></h2>
 			<img src="images/agile-lean-portada.jpg" alt="Nisum Search" width="340" height="90">
 			<p class="team-description"><?php echo $lang['elemIdindex.php204']; ?></p>
-			<a href="agile-lean.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php205']; ?></a> <span class="strips-bg"></span>
+			<a href="agile-lean-2015.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php205']; ?></a> <span class="strips-bg"></span>
 		</li>
 		<li>
 			<h5><?php echo $lang['elemIdindex.php198']; ?></h5>
