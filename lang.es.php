@@ -1308,6 +1308,24 @@ $lang["elemIdindex.php212"] = "Nisum Chile fue sponsor oficial del evento de tec
 
 $lang["elemIdindex.php213"] = "Lea más";
 
+$lang["elemIdindex.php214"] = "Noticias";
+
+$lang["elemIdindex.php215"] = "Global Day of Code Retreat";
+
+$lang["elemIdindex.php216"] = "El sábado 14 de noviembre Nisum Chile fue una de las sedes mundiales desde las que se llevó a cabo, en simultáneo, el GlobalDay of CodeRetreat 2015.";
+
+$lang["elemIdindex.php217"] = "Lea más";
+
+$lang["elemIdindex.php218"] = "Entrevista";
+
+$lang["elemIdindex.php219"] = "JANEL WELLBORN";
+
+$lang["elemIdindex.php220"] = "Janel Wellborn tuvo la oportunidad de compartir su vasta experiencia con todo el equipo de Nisum";
+
+$lang["elemIdindex.php221"] = "Lea más";
+
+
+
 /*
     india-openings
 */
@@ -2362,6 +2380,14 @@ $lang["elemIActivity.php24"] = "STARTECH CONFERENCE";
 
 $lang["elemIActivity.php25"] = "Nisum Chile fue sponsor oficial del evento de tecnología más importante de Chile y uno de los más importantes de Sudamérica.";
 
+$lang["elemIActivity.php26"] = "Global Day of Code Retreat";
+
+$lang["elemIActivity.php27"] = "El sábado 14 de noviembre Nisum Chile fue una de las sedes mundiales desde las que se llevó a cabo, en simultáneo, el GlobalDay of CodeRetreat 2015.";
+
+$lang["elemIActivity.php28"] = "JANEL WELLBORN";
+
+$lang["elemIActivity.php29"] = "Janel Wellborn tuvo la oportunidad de compartir su vasta experiencia con todo el equipo de Nisum";
+
 
 /*  Lanzamiento la hora del código   */
 
@@ -2531,5 +2557,70 @@ $lang["startechconf.php8"] = "“Fue una experiencia muy enriquecedora, se traba
 
 $lang["startechconf.php9"] = "Revisa la galería fotográfica de StarTechConf a continuación.";
 
+/* Code Retreat */
+
+$lang["codeRetreat.php1"] = "Global Day of Code Retreat 2015";
+
+$lang["codeRetreat.php2"] = "El sábado 14 de noviembre Nisum Chile fue una de las sedes mundiales desde las que se llevó a cabo, en simultáneo, el GlobalDay of CodeRetreat 2015.";
+
+$lang["codeRetreat.php3"] = "Por Camila Rosemblat C.";
+
+$lang["codeRetreat.php4"] = "“Fue una gran jornada junto a otros colegas de la industria de TI, durante la que empezamos con pequeños pasos, fuimos aprendiendo en el proceso y, finalmente, celebramos los valores del Software Craftsmanship: Código de Calidad y Buenas Prácticas”. Así definió este evento Germán Gónzalez, de Nisum Chile, quien puso en marcha su desarrollo.";
+
+$lang["codeRetreat.php5"] = "Esta iniciativa se realiza cada año y convoca a programadores de todo el mundo a programar al mismo tiempo desde distintos lugares. En esta oportunidad Nisum se sumó y prestó sus instalaciones para convertirse en una de las sedes del evento.";
+
+$lang["codeRetreat.php6"] = "Durante el GlobalDay todos los invitados participaron de manera entusiasta. Compartieron con gente talentosa, abierta a compartir sus experiencias e incluso se plantearon el desafío de realizar el Juego de la Vida con programación funcional. Este es un autómata celular diseñado por el matemático británico John Horton Conway para practicar programación en niveles avanzados.";
+
+$lang["codeRetreat.php7"] = "“La actividad nos fue dando nuevas perspectivas y formas de abordar el desafío de implementar el Juego de la vida”, comentó Germán González, quien agradeció a Nisum y se demostró entusiasmado por repetir la experiencia pronto. Aquí puedes leer su reseña acerca de este gran día para la programación:";
+
+/* Janel Wellborn */
+
+$lang["janelwellborn.php1"] = "ENTREVISTA CON JANEL WELLBORN, VP PRODUCT & CHANGE MANAGEMENT DE NISUM";
+
+$lang["janelwellborn.php2"] = "Durante su visita a Chile, Janel Wellborn tuvo la oportunidad de compartir su vasta experiencia con todo el equipo de Nisum. En esta entrevista comenta los grandes avances de la sede Latam de la compañía en términos de metodologías Ágiles y Lean, además de reconocer los desafíos por conquistar e identificar sus proyecciones y aspiraciones para Nisum Technologies a partir de su labor.";
+
+$lang["janelwellborn.php3"] = "Por Camila Rosemblat C.";
+
+$lang["janelwellborn.php4"] = "¿Cuál es la nueva oferta de Nisum para sus clientes desde que te integraste a la empresa?";
+
+$lang["janelwellborn.php5"] = "Lo que tenemos de nuevo para nuestros clientes es que ahora tenemos un servicio de oferta  interno, tradicionalmente nosotros ofreceríamos servicios de desarrollo y de QA para que si nuestros clientes tenían una necesidad técnica pudiéramos ayudarlos, pero ahora nos hacemos cargo del espectro completo. Así podemos definir qué es lo que vamos a construir para ellos y si queremos resolver cualquier tema saber cuál va a ser la mejor de hacerlo, funcionalidad o experiencia que se aplique en cada caso. Para lograr esto coordinamos la entrega de soluciones con “Project Managers”, a través de ellos podemos enseñar y guiar a nuestros clientes en las distintas formas de “delivery”, cómo ser Ágiles o a través del desarrollo Lean.";
+
+$lang["janelwellborn.php6"] = "Y luego lo más importante, al menos para mí, es saber que ahora vamos a ser capaces de ayudarlos de par a par para que ellos no sean dependientes de nosotros sino socios, de acá a muchos años, porque ellos van a saber cómo hacer las cosas internamente por sí mismos, les enseñaremos a hacerse cargo para resolver sus problemas en un nivel básico y más allá de lo que nuestros equipos pueden hacer por ellos.";
+
+$lang["janelwellborn.php7"] = "¿Cuáles son tus desafíos en Nisum? ¿Y en Nisum Chile específicamente?";
+
+$lang["janelwellborn.php8"] = "Creo que tanto en el exterior como aquí estamos creciendo, estamos haciendo un gran trabajo. Y eso son buenas noticias, pero también significa que la demanda aumenta y a veces incluso excede nuestros suministros, entonces el principal foco y al mismo tiempo desafío es el reclutamiento de personal y cómo captamos y adquirimos el talento que necesitamos.";
+
+$lang["janelwellborn.php9"] = "Una vez que has realizado un buen trabajo, como nos ocurrió en el caso de nuestros últimos dos nuevos clientes, dices “Bien! Pero ahora necesito diez equipos más con las mismas características” y no es tan fácil encontrar gente con estas habilidades, entonces tenemos que salir a buscarlos. Y no queremos que sea cualquier persona, tiene que ser gente que pueda realmente representar nuestra cultura y sea la cara de Nisum al tiempo que ofrecen a nuestros clientes trabajos de calidad.";
+
+$lang["janelwellborn.php10"] = "Necesitamos gente que no solo actúe en pos de lo que nuestros clientes nos piden sino que como consultores puedan dar un paso atrás y ver cada situación desde su experiencia y con perspectiva, estamos buscando gente que se sienta cómoda desarrollando un punto de vista, que tenga confianza en sí misma y en su experiencia. Que hayan visto y vivido cosas que les da una perspectiva, una de las cosas más valiosas que creo que les brindo a mis clientes como una consultora es que he visto cómo lo han hecho en Macys o Gap o en American Airlines y que uno puede aprender de eso. No va a ser siempre igual y tienes que adaptarte a distintas culturas y tecnologías, pero ser capaz de pensar y entender cómo lo vas a aplicar en una situación diferente es fundamental. Entonces sí, necesitamos gente con habilidades técnicas fuertes y con fuerte experiencia, pero también necesitamos gente apasionada, segura y que quiera dejar una huella tanto en sus clientes como en sus compañeros de equipo.";
+
+$lang["janelwellborn.php11"] = "¿Cómo ves el desarrollo Ágil aquí en Latinoamérica? ¿Qué crees que es necesario adaptar de lo que hacen en Estados Unidos, aquí?";
+
+$lang["janelwellborn.php12"] = "Creo que un beneficio es que en Latinoamérica podemos aprender de las cosas que ya se han probado en Estados Unidos. Entonces hay beneficios en ser los primeros pero también en ser los segundos, en muchos aspectos. Y en este caso creo que cuando la transformación Ágil empezó en EE.UU. está se llevó a cabo de manera muy académica y filosófica. “Ahí hay un libro, primero debes hacer esto, después esto otro y tienes que hacerlo de tal manera” y la verdad es que lo que he aprendido y he visto en grandes y pequeñas compañías es que hay principios claves a los que sí tenemos que aferrarnos y tratar de integrarlos en el caso de cada cliente, pero necesitamos ser capaces de adaptarnos y lo que quiero decir con eso es el pensamiento Ágil aplicado a la acción es la mejor manera no solo de practicarlo sino también de entenderlo.";
+
+$lang["janelwellborn.php13"] = "Tenemos que dejar a nuestros equipos ser libres para adaptar la metodología Ágil basándose en sus experiencias, lo que los apasiona, lo que han aprendido y lo que funciona para ellos. En una gran organización puedes tener 10 equipos trabajando en desarrollo Ágil y esos 10 equipos pueden estar haciéndolo de maneras completamente distintas.";
+
+$lang["janelwellborn.php14"] = "Creo que en Estados Unidos se está llegando un real “momentum” en relación a esto, y nosotros deberíamos probablemente tomar esa enseñanza para evitar tardar tanto en alcanzarlo.";
+
+$lang["janelwellborn.php15"] = "En ese sentido, ¿qué es lo que crees que hace falta hacer en Chile? ";
+
+$lang["janelwellborn.php16"] = "Algunas cosas, me he dado cuenta luego de conversar con algunos clientes que hay pequeños grupos, y esto es muy típico, que lo han adoptado y creen que “Ágil es una gran idea” y “debiéramos hacer esta transformación para resolver las cosas así”. Pero eso significa también difundir esta metodología no solo entre el grupo de Senior y de líderes, sino también al nivel que le sigue a este, porque según lo que puedo decir, cuanto antes internalicemos a todo el personal sobre los beneficios de esta transformación, mejor. Dos personas solas no pueden tirar para arriba la transformación sino un grupo más grande que debiera integrarse en cuanto al negocio y a los servicios IT. Este grupo debe trabajar en conjunto y concordar en que esto realmente los ayudará a devolver las inversiones, solucionar los problemas de los clientes, tener una base de empleados más comprometidos, etcétera.";
+
+$lang["janelwellborn.php17"] = "Es necesario que se hagan pruebas haciendo las cosas de manera diferente una vez que se empieza el camino Ágil y que todos entiendan que funcionará de manera distinta con este equipo. Esos equipos tienen que ser realmente mezclas de gente que sepa hacer esto, que ha visto esta película antes y puede modelar su conducta, como también gente que sean incluso clientes que puedan aprender siendo parte de esto, en vez de decir “háganlo ustedes por nosotros y nos cuentan cómo les fue”.";
+
+$lang["janelwellborn.php18"] = "Creo que para llegar a ese “momentum” el cambio es muy difícil, “todos lo saben” pero creo que realmente no lo saben, saben cómo es acá pero no saben lo que significa. Entonces es necesario empezar con un equipo multifuncional de clientes y empleados como los que tenemos en EE.UU.";
+
+$lang["janelwellborn.php19"] = "¿Cuál identificas como un gran logro de Nisum Chile? ";
+
+$lang["janelwellborn.php20"] = "Creo que lo bueno es que a medida que hacemos crecer nuestra base de clientes, estamos alcanzando gente que ha experimentado esto, conoce los beneficios del Ágil y de trabajar de una manera distinta y quieren hacerlo con nosotros porque saben que tenemos experiencia, entonces eso para mí es un gran logro. Que seamos capaces de ser percibidos así por gente que tiene expertise y gran experiencia en esta área; creo que gracias a eso somos capaces de influenciar más este ecosistema. Nuestros clientes nos consideran “socios-profesores”, no solo una casa de entrega de sistema, y eso creo es un desafío y también un logro, porque es genial habernos convertido en tal influencia para ellos, pero ahora tenemos que asegurarnos de que hacemos lo suficiente para brindarles un valor adicional.";
+
+$lang["janelwellborn.php21"] = "¿Cuál es el escenario E-commerce y Omnichannel actualy cómo Nisum se adapta a este?";
+
+$lang["janelwellborn.php22"] = "Creo que mientras el mundo digital prolifera, las expectativas de los clientes están cambiando realmente y con cambiando me refiero a aumentando, entonces si yo soy un cliente tengo que poder recibir lo que quiero, cuando lo quiero y donde lo quiero: ¿Lo quiero en la tienda o lo quiero en mi casa? ¿Lo quiero hoy o la semana que viene? ¿Quiero pagar por entregas a domicilio o no quiero? ¿Quiero poder probarlo antes de comprarlo o quiero consejo de otra gente? Entonces sus consideraciones son amplias. Si soy un retailer en Macys, por ejemplo, o París o Cencosud, el paisaje competitivo son otros retailers pero también las sucursales bancarias online, Amazon donde compro un libro, o Home Depot, donde compro otras cosas.";
+
+$lang["janelwellborn.php23"] = "Entonces sus expectativas se han fundido en una red mucho más amplia y como compañía tenemos que ser capaces de desechar su red, abrir la mente y ver otras cosas para realmente llegar a la esencia del problema del cliente y eso es una gran parte: ser capaces de decir, “los clientes tienen expectativas más altas y eso es más importante que nunca para mí” porque es muy fácil para alguien crear un sitio web o una aplicación móvil, no necesitan ser grandes técnicos para crear eso, si ellos realmente entienden el problema del cliente pueden ir y resolverlo en tres semanas con un par de desarrolladores en una misma habitación. Entonces va a ser muy crítico mantener a los clientes en el centro, realmente entender sus problemas y cómo podemos usar la tecnología para resolver estos problemas para ellos.";
+
+$lang["janelwellborn.php24"] = "Creo que ahora lo más importante es mantener al cliente en el centro y usar la “data” para captar sus opiniones y emociones, para descubrir cómo invertir, cómo encarar las características y funcionalidades de lo que necesitan. Sea con un aparato, un servicio POS en tiendas o el computador mismo. Tomar decisiones guiadas por los datos que nos entregan los mismos clientes ya que son sus demandas las que debemos cumplir.";
 
 ?>

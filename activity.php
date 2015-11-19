@@ -44,6 +44,30 @@
 			<div class="row">
 					<section>
 						<div class="col-md-4">
+							<img width="400" src="images/OK1.jpg" alt="Janel"/>
+						</div>
+						<div class="col-md-8">
+						<h1><?php echo $lang['elemIActivity.php28']; ?></h1>
+						<p><?php echo $lang['elemIActivity.php29']; ?></p>
+							<a href="startechconf.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIActivity.php5']; ?></a> <span class="strips-bg"></span>
+						</div>
+					</section>
+			</div>
+			<div class="row">
+					<section>
+						<div class="col-md-4">
+							<img width="400" src="images/portadaCode.jpeg" alt="Code"/>
+						</div>
+						<div class="col-md-8">
+						<h1><?php echo $lang['elemIActivity.php26']; ?></h1>
+						<p><?php echo $lang['elemIActivity.php27']; ?></p>
+							<a href="startechconf.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIActivity.php5']; ?></a> <span class="strips-bg"></span>
+						</div>
+					</section>
+			</div>
+			<div class="row">
+					<section>
+						<div class="col-md-4">
 							<img width="400" src="images/star-tech.jpg" alt="StarTech"/>
 						</div>
 						<div class="col-md-8">

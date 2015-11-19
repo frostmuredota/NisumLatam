@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link href="images/favicon.ico" rel="shortcut icon">
-    <title>Nisum Technologies | Janel</title>
+    <title>Nisum Technologies | Janel Wellborn</title>
     <link rel="stylesheet" type="text/css" href="css/base/bootstrap/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/features/main.css">
     <script type="text/javascript" src="js/jquery-1.10.2.js"></script>
@@ -23,7 +23,6 @@
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
 		ga('create', 'UA-68520735-1', 'auto');
 		ga('send', 'pageview');
    </script>
@@ -40,27 +39,43 @@
             </div>
             <div class="col-md-12 content">
 				<section>
-					<h1><?php echo $lang['elemIJanetVisitChile.php1']; ?></h1>
-					<p><?php echo $lang['elemIJanetVisitChile.php2']; ?></p>
-					<p><?php echo $lang['elemIJanetVisitChile.php3']; ?></p>
-					<p><?php echo $lang['elemIJanetVisitChile.php4']; ?></p>
-					<p><?php echo $lang['elemIJanetVisitChile.php5']; ?></p>
-					<p><?php echo $lang['elemIJanetVisitChile.php6']; ?></p>
-					<p><?php echo $lang['elemIJanetVisitChile.php7']; ?></p>
-					<p><?php echo $lang['elemIJanetVisitChile.php8']; ?></p>
-					<p><a href="http://bit.ly/1L2bZFy"><?php echo $lang['elemIJanetVisitChile.php9']; ?></a></p>
+					<h1><?php echo $lang['janelwellborn.php1']; ?></h1> 
+					<p><?php echo $lang['janelwellborn.php2']; ?></p>
+					<p><?php echo $lang['janelwellborn.php3']; ?></p>
+					<h3><?php echo $lang['janelwellborn.php4']; ?></h3>
+					<p><?php echo $lang['janelwellborn.php5']; ?></p>
+					<p><?php echo $lang['janelwellborn.php6']; ?></p>
+					<h3><?php echo $lang['janelwellborn.php7']; ?></h3>
+					<p><?php echo $lang['janelwellborn.php8']; ?></p>
+					<p><?php echo $lang['janelwellborn.php9']; ?></p>
+					<p><?php echo $lang['janelwellborn.php10']; ?></p>
+					<h3><?php echo $lang['janelwellborn.php11']; ?></h3>
+					<p><?php echo $lang['janelwellborn.php12']; ?></p>
+					<p><?php echo $lang['janelwellborn.php13']; ?></p>
+					<p><?php echo $lang['janelwellborn.php14']; ?></p>
+					<h3><?php echo $lang['janelwellborn.php15']; ?></h3>
+					<p><?php echo $lang['janelwellborn.php16']; ?></p>
+					<p><?php echo $lang['janelwellborn.php17']; ?></p>
+					<p><?php echo $lang['janelwellborn.php18']; ?></p>
+					<h3><?php echo $lang['janelwellborn.php19']; ?></h3>
+					<p><?php echo $lang['janelwellborn.php20']; ?></p>
+					<h3><?php echo $lang['janelwellborn.php21']; ?></h3>
+					<p><?php echo $lang['janelwellborn.php22']; ?></p>
+					<p><?php echo $lang['janelwellborn.php23']; ?></p>
+					<p><?php echo $lang['janelwellborn.php24']; ?></p>
 				</section>
-				<img src="images/janel.jpg" alt="Janel">
+				<img src="images/OK1.jpg" alt="Janel">
 				<div>
 					Compartir en
 				</div>
 				<div style="float:left">
 								<script>
-									document.write('<a target="_blank" href="http://twitter.com/home?status=' + encodeURIComponent("Leyendo http://www.nisumlatam.com/janel-visit-chile.php en Nisum Latam") + '"><img src="images/twitterIcon.png" alt="Comparte esto en Twitter" /></a>');
+									document.write('<a target="_blank" href="http://twitter.com/home?status=' + encodeURIComponent("Leyendo http://www.nisumlatam.com/janelwellborn.php en Nisum Latam") + '"><img src="images/twitterIcon.png" alt="Comparte esto en Twitter" /></a>');
 								</script>
-								<a href="http://www.linkedin.com/shareArticle?url=http://www.nisumlatam.com/janel-visit-chile.php" target="_blank"><img src="images/linkedInIcon.png" alt="Comparte esto en LinkedIn" /></a>
+								<a href="http://www.linkedin.com/shareArticle?url=http://www.nisumlatam.com/janelwellborn.php" target="_blank"><img src="images/linkedInIcon.png" alt="Comparte esto en LinkedIn" /></a>
 
 				</div></br>
+				<span class="curve"></span>
 			</div>
     </div>    
     <?php include "footer.php" ?>

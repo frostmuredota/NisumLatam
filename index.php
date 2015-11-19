@@ -428,6 +428,22 @@
                 <p class="team-description"><?php echo $lang['elemIdindex.php212']; ?></p>
                 <a href="startechconf.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php213']; ?></a> <span class="strips-bg" ></span></div>
               </li>
+			  <li style="opacity: 1;">
+                <div class="sliderInfo">
+                <h5><?php echo $lang['elemIdindex.php214']; ?></h5>
+                <h2><?php echo $lang['elemIdindex.php215']; ?></h2>
+                <img src="images/portadaCode.jpeg" alt="Code" width="340" height="90">
+                <p class="team-description"><?php echo $lang['elemIdindex.php216']; ?></p>
+                <a href="codeRetreat.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php217']; ?></a> <span class="strips-bg" ></span></div>
+              </li>
+			  <li style="opacity: 1;">
+                <div class="sliderInfo">
+                <h5><?php echo $lang['elemIdindex.php218']; ?></h5>
+                <h2><?php echo $lang['elemIdindex.php219']; ?></h2>
+                <img src="images/portadaJanel.jpg" alt="Janel" width="340" height="90">
+                <p class="team-description"><?php echo $lang['elemIdindex.php220']; ?></p>
+                <a href="janelwellborn.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php221']; ?></a> <span class="strips-bg" ></span></div>
+              </li>
           </ul>
         </div>
         <div class="right-scroll">
