@@ -289,8 +289,8 @@
 		<li>
 			<h5><?php echo $lang['elemIdindex.php214']; ?></h5>
 			<h2><?php echo $lang['elemIdindex.php215']; ?></h2>
-			<img src="images/portadaCode.jpg" alt="Nisum Search" width="340" height="90">
-			<p class="team-description"><?php echo $lang['elemIdindex.php2016']; ?></p>
+			<img src="images/portadaCode.jpeg" alt="Nisum Search" width="340" height="90">
+			<p class="team-description"><?php echo $lang['elemIdindex.php216']; ?></p>
 			<a href="codeRetreat.php" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php217']; ?></a> <span class="strips-bg"></span>
 		</li>
 		<li>
