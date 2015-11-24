@@ -41,6 +41,18 @@
                 <div class="breadcrumb"><?php echo $lang['elemIWeAre100.php4']; ?></div>
 		</div>
 		<div class="col-md-12 content">
+		<div class="row">
+					<section>
+						<div class="col-md-4">
+							<img width="400" src="images/VideoJCG.png" alt="Jose"/>
+						</div>
+						<div class="col-md-8">
+						<h1><?php echo $lang['elemIActivity.php30']; ?></h1>
+						<p><?php echo $lang['elemIActivity.php31']; ?></p>
+							<a href="josecasal.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIActivity.php5']; ?></a> <span class="strips-bg"></span>
+						</div>
+					</section>
+			</div>
 			<div class="row">
 					<section>
 						<div class="col-md-4">
