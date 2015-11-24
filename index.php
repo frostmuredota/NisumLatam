@@ -472,6 +472,14 @@
                 <p class="team-description"><?php echo $lang['elemIdindex.php220']; ?></p>
                 <a href="janelwellborn.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php221']; ?></a> <span class="strips-bg" ></span></div>
               </li>
+        <li style="opacity: 1;">
+                <div class="sliderInfo">
+                <h5><?php echo $lang['elemIdindex.php222']; ?></h5>
+                <h2><?php echo $lang['elemIdindex.php223']; ?></h2>
+                <img src="images/VideoJCG.png" alt="Jose" width="340" height="90">
+                <p class="team-description"><?php echo $lang['elemIdindex.php224']; ?></p>
+                <a href="josecasal.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php225']; ?></a> <span class="strips-bg" ></span></div>
+              </li>
           </ul>
         </div>
         <div class="right-scroll">
