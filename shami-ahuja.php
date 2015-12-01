@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link href="images/favicon.ico" rel="shortcut icon">
-    <title>Nisum Technologies | Janel</title>
+    <title>Nisum Technologies | Shami Ahuja</title>
     <link rel="stylesheet" type="text/css" href="css/base/bootstrap/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/features/main.css">
     <script type="text/javascript" src="js/jquery-1.10.2.js"></script>
@@ -54,7 +54,7 @@
 								<script>
 									document.write('<a target="_blank" href="http://twitter.com/home?status=' + encodeURIComponent("Leyendo http://www.nisumlatam.com/shami-ahuja.php en Nisum Latam") + '"><img src="images/twitterIcon.png" alt="Comparte esto en Twitter" /></a>');
 								</script>
-                                <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//nisumlatam.com/shami-ahuja.php&title=&summary=&source="><img src="images/linkedInIcon.png" alt="Comparte esto en LinkedIn" /></a>
+                                <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//nisumlatam.com/shami-ahuja.php&title=Entrevista%20Shami%20Ahuja&summary=Shami%20Ahuja,%20directora%20de%20pr%C3%A1cticas%20%C3%A1giles%20de%20Nisum%20Technologies,%20visit%C3%B3%20Chile%20y%20la%20entrevistamos%20acerca%20de%20su%20visi%C3%B3n%20del%20desarrollo%20Agile%20y%20Lean%20en%20Chile.%20Revisa%20aqu%C3%AD%20lo%20que%20nos%20dijo.&source=NisumLatam"><img src="images/linkedInIcon.png" alt="Comparte esto en LinkedIn" /></a>
 				</div></br>
 			</div>
     </div>    
