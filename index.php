@@ -279,6 +279,20 @@
   <div class="services-mob">
     <div class="list">
       <ul>
+    <li>
+      <h5><?php echo $lang['elemIdindex.php226']; ?></h5>
+      <h2><?php echo $lang['elemIdindex.php227']; ?></h2>
+      <img src="images/ShamiVideo.png" alt="Shami" width="340" height="90">
+      <p class="team-description"><?php echo $lang['elemIdindex.php228']; ?></p>
+      <a href="shami-ahuja.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php229']; ?></a> <span class="strips-bg" ></span></div>
+    </li>
+    <li>
+      <h5><?php echo $lang['elemIdindex.php222']; ?></h5>
+      <h2><?php echo $lang['elemIdindex.php223']; ?></h2>
+      <img src="images/VideoJCG.png" alt="Jose" width="340" height="90">
+      <p class="team-description"><?php echo $lang['elemIdindex.php224']; ?></p>
+      <a href="josecasal.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php225']; ?></a> <span class="strips-bg" ></span></div>
+    </li>
 		<li>
 			<h5><?php echo $lang['elemIdindex.php218']; ?></h5>
 			<h2><?php echo $lang['elemIdindex.php219']; ?></h2>
@@ -480,6 +494,14 @@
                 <p class="team-description"><?php echo $lang['elemIdindex.php224']; ?></p>
                 <a href="josecasal.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php225']; ?></a> <span class="strips-bg" ></span></div>
               </li>
+        <li style="opacity: 1;">
+                <div class="sliderInfo">
+                <h5><?php echo $lang['elemIdindex.php226']; ?></h5>
+                <h2><?php echo $lang['elemIdindex.php227']; ?></h2>
+                <img src="images/ShamiVideo.png" alt="Shami" width="340" height="90">
+                <p class="team-description"><?php echo $lang['elemIdindex.php228']; ?></p>
+                <a href="shami-ahuja.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIdindex.php229']; ?></a> <span class="strips-bg" ></span></div>
+        </li>
           </ul>
         </div>
         <div class="right-scroll">

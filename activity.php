@@ -44,6 +44,18 @@
 		<div class="row">
 					<section>
 						<div class="col-md-4">
+							<img width="400" src="images/ShamiVideo.png" alt="Shami"/>
+						</div>
+						<div class="col-md-8">
+						<h1><?php echo $lang['elemIActivity.php32']; ?></h1>
+						<p><?php echo $lang['elemIActivity.php33']; ?></p>
+							<a href="shami-ahuja.php" target="_blank" value="Learn More" class="btn-sm learn-more left"><?php echo $lang['elemIActivity.php5']; ?></a> <span class="strips-bg"></span>
+						</div>
+					</section>
+			</div>
+		<div class="row">
+					<section>
+						<div class="col-md-4">
 							<img width="400" src="images/VideoJCG.png" alt="Jose"/>
 						</div>
 						<div class="col-md-8">

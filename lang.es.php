@@ -2311,6 +2311,13 @@ $lang["elemIdindex.php224"] = "Durante noviembre, el español José Casal-Gimén
 $lang["elemIdindex.php225"] = "Lea más";
 
 
+$lang["elemIdindex.php226"] = "Entrevista";
+
+$lang["elemIdindex.php227"] = "Shami Ahuja";
+
+$lang["elemIdindex.php228"] = "Shami Ahuja, directora de prácticas ágiles de Nisum Technologies, visitó Chile y la entrevistamos acerca de su visión del desarrollo Agile y Lean en Chile. Revisa aquí lo que nos dijo.";
+
+$lang["elemIdindex.php229"] = "Lea más";
 
 /*
 
@@ -4174,7 +4181,15 @@ $lang["elemIMeetUpJose.php7"] = "En la charla a la que asistieron varios emplead
 
 $lang["elemIMeetUpJose.php8"] = "https://www.youtube.com/watch?v=bBImPbCKBnM&feature=youtu.be";
 
+/*Entrevista Sami Ahuja*/
+$lang["elemIShami.php1"] = "ENTREVISTA SHAMI AHUJA";
 
+$lang["elemIShami.php2"] = "Por Camila Rosemblat C.";
+
+$lang["elemIShami.php3"] = "Shami Ahuja, directora de prácticas ágiles de Nisum Technologies, visitó Chile y la entrevistamos acerca de su visión del desarrollo Agile y Lean en Chile. Revisa aquí lo que nos dijo.";
+
+
+$lang["elemIShami.php4"] = "https://youtu.be/bBImPbCKBnM";
 
 /* Hour of the code */
 
@@ -4266,6 +4281,10 @@ $lang["elemIActivity.php29"] = "Janel Wellborn tuvo la oportunidad de compartir 
 $lang["elemIActivity.php30"] = "MEET-UP CON JOSÉ CASAL-GIMÉNEZ";
 
 $lang["elemIActivity.php31"] = "Durante noviembre, el español José Casal-Giménez visitó Nisum Chile en un Meetup sobre Kanban organizado por ChileAgil.";
+
+$lang["elemIActivity.php32"] = "ENTREVISTA SHAMI AHUJA";
+
+$lang["elemIActivity.php33"] = "Shami Ahuja, directora de prácticas ágiles de Nisum Technologies, visitó Chile y la entrevistamos acerca de su visión del desarrollo Agile y Lean en Chile. Revisa aquí lo que nos dijo.";
 
 
 /*  Lanzamiento la hora del código   */
